@@ -1,221 +1,197 @@
 # THE LAST BOY ON EARTH
-## Tencent Pitch Document v0.1
+## Tencent Pitch Document v0.2
 
 **Format:** Premium episodic animated science-fiction adventure  
 **Season:** 10 episodes × approximately 15 minutes  
 **Status:** Confidential Development Material
 
 ## One-line premise
-
 Centuries after humanity disappears, an alien expedition follows the Voyager Golden Record to Earth and discovers a single surviving boy.
 
 ## Logline
-
-When an alien expedition reaches a breathtaking Earth reclaimed by nature, its crew finds one surviving human boy and must join him in uncovering what happened to humanity, while deciding whether its legacy deserves to be saved.
+When an alien expedition reaches a breathtaking Earth reclaimed by nature, its crew finds one surviving human boy and joins him in following a trail of signals, memories and hidden mission orders that may reveal where humanity went and whether its legacy deserves to survive.
 
 ## Series overview
+The Last Boy on Earth is an emotional science-fiction adventure about loneliness, friendship and the traces a civilisation leaves behind. An alien expedition arrives expecting the living culture promised by the Voyager Golden Record. Instead, they find silent cities, nature fused with human infrastructure and one boy who may be the final living representative of humankind.
 
-The Last Boy on Earth is an emotional science-fiction adventure about loneliness, friendship and the traces a civilisation leaves behind. An alien expedition arrives expecting a thriving human world, having followed the cultural promise contained in the Voyager Golden Record. Instead, the visitors find silent cities, extraordinary landscapes reclaimed by nature and one boy who may be the final living representative of humankind.
-
-Each episode takes the boy and the expedition into a new human place, object, ritual or story. The aliens interpret humanity as outsiders, while the boy is forced to reconsider the fragments of history and belief on which he has built his identity. Every discovery advances the mystery of humanity's disappearance and changes the relationship between the boy and his unexpected companions.
-
-The series places wonder before action and hope before nihilism. Humanity is not idealised. Its failures matter. But so do its stories, kindness, curiosity, music, courage and love.
+Each episode combines a physical discovery with an emotional discovery. The aliens misread a human place, object, ritual or story; the boy is forced to reassess the fragments of history on which he built his identity; and the season mystery advances through a causally connected clue. Wonder comes before combat. Humanity is shown honestly, through both beauty and failure.
 
 ## Emotional engine
+The season question is: can the last human child trust a group of aliens enough to stop merely surviving and begin living again?
 
-The central emotional question is simple: what does it mean to believe you are alone, and what changes when someone finally finds you?
+The boy believes everyone he loves eventually leaves. The crew first sees him as evidence, then as a person, and finally as family. Their evolving relationship turns the question of humanity's value from an abstract judgement into a moral responsibility.
 
-The boy needs the aliens because they give him a future beyond survival. The aliens need the boy because he transforms humanity from an archaeological puzzle into a living relationship. Their friendship becomes the lens through which the series examines what is worth preserving.
+**Season emotional progression:** isolation → curiosity → friendship → distrust → sacrifice → belonging.
 
 ## World bible
-
 ### Earth
-
-Earth is centuries beyond the disappearance of humanity. Nature has reclaimed cities, roads, monuments and machines. The planet is not a dead wasteland. It is beautiful, alive and full of evidence that something immense happened.
+Earth is centuries beyond humanity's disappearance. It is not a dead wasteland. It is beautiful, dangerous and alive. Cities have become ecosystems. Roads are rivers. Towers are cliffs. Domestic interiors remain intimate archaeological spaces where ordinary objects carry emotional weight.
 
 ### Human remains
-
-Everyday objects have become archaeological mysteries. A record player, playground, stadium, family photograph or abandoned kitchen can be interpreted incorrectly by the alien crew before its emotional meaning is uncovered.
+Everyday things are story clues rather than decorative lore. A museum label, family photograph, damaged record player or child's drawing can change a relationship and move the mystery forward.
 
 ### The Voyager Golden Record
-
-The Golden Record is the major emotional and visual symbol of the series. It represents humanity's attempt to be known across impossible distance. Its images, sounds and music contrast with the silent world the aliens actually discover.
+The Golden Record is the central visual, sonic and emotional motif. It represents humanity's attempt to be known across impossible distance. Gold circles, etched diagrams, recorded voices and fragments of music should recur throughout the season.
 
 ### The alien expedition
-
-The expedition must feel original, humane and culturally specific rather than generically alien. The ship, technology and crew should avoid familiar flying-saucer, grey-alien and sterile-corridor imagery.
+The expedition consists of a protocol-bound leader, a young scientist, a sceptical security officer and the ship intelligence. Their technology must feel culturally specific, tactile and functional. Avoid grey-alien anatomy, chrome corridors and flying-saucer shorthand.
 
 ### Locked world rules
-
-- Earth is breathtaking, overgrown and reclaimed by nature.
-- Human objects function as story clues, not decorative lore.
-- Every discovery must affect character.
-- The mystery unfolds through causally connected evidence.
-- Hope must emerge from choices rather than speeches.
+- Every episode contains a physical and emotional discovery.
+- The mystery advances through choices, not convenient exposition.
+- Human history is neither idealised nor dismissed.
+- Earth remains specific, beautiful and hazardous.
+- Hope is earned through action.
 
 ### Canon still to be locked
-
-- Exact timeline after humanity's disappearance
-- The boy's survival mechanism
-- Whether he truly is the last human
-- The cause of humanity's disappearance
-- Why the Golden Record signal became discoverable
-- The alien civilisation's culture and mission rules
+- Exact timeline and survival mechanism
+- Final cause of humanity's disappearance
+- Why the signal became discoverable
+- Alien names, home culture and authority structure
 
 ## Character bible
-
 ### The Boy
+**Age:** approximately 11–13.  
+**External want:** find out whether anyone else survived.  
+**Internal need:** stop defining himself only through loss and accept a new family.  
+**Contradiction:** expert at surviving Earth, inexperienced at living with people.  
+**Flaw:** hides fear behind independence and distrust.  
+**Gift:** curiosity, empathy and an instinct for seeing value in broken things.  
+**Signature:** records messages for people who may never hear them and collects misunderstood human objects.
 
-**Locked function:** The final known human and active emotional protagonist.  
-**Core dramatic need:** To move from survival and isolation toward trust, belonging and responsibility.  
-**Guardrail:** He cannot remain passive or merely act as a guide to human history.
+### Expedition Leader
+A calm, rational commander who begins by treating the boy as a historic discovery. The leader's arc is accepting that discovery creates responsibility and ultimately breaking mission protocol to protect him.
 
-**Canon still to be locked:** Name, age, history, survival mechanism, skills, flaws, fear, visual identity and the extent of his knowledge about humanity.
+### Young Alien Scientist
+The boy's first true friend. Brilliant, curious and emotionally intrusive. The scientist knows thousands of human facts but misunderstands ordinary feelings, humour and music. Their arc moves from studying the boy to standing beside him.
 
-### The Alien Expedition
+### Security Officer
+A protective sceptic who assumes the worst to prevent catastrophe. Initially sees the boy as a biological and strategic risk, then becomes the most physically protective and unexpectedly gentle member of his new family.
 
-**Locked function:** A group of visitors with competing personalities, goals and flaws who arrive expecting civilisation and instead encounter its apparent end.  
-**Core dramatic need:** To decide whether humanity is a failed species, a lost culture or something still worth protecting.
+### Ship Intelligence
+Keeper of the mission record and sealed orders. It has perfect access to humanity's recorded history but no lived relationship with a human. Its interpretation of the Golden Record evolves from data archive to emotional testimony.
 
-**Canon still to be locked:** Crew roster, names, roles, internal conflict, cultural background, individual arcs and relationship to the expedition's authority.
+### Central relationship map
+- Boy + Scientist: friendship and mutual discovery
+- Boy + Leader: child and reluctant guardian
+- Boy + Security Officer: mistrust becoming protection
+- Boy + Ship Intelligence: memory, truth and the definition of humanity
 
-### Opposing force
-
-A season antagonist or opposing pressure has not yet been locked. It should connect directly to the mystery, force difficult choices and challenge the growing friendship rather than operate as a detached villain.
+**Still to be locked:** character names, final visual silhouettes and specific alien culture.
 
 ## Season One arc
+The alien crew arrives following the Golden Record and discovers the boy beneath a vast abandoned city. Early trust forms through small acts, while the boy hides what he knows about repeating signals. A museum and a city reclaimed by nature reveal that someone may have moved through the ruins recently.
 
-Season One begins with first contact between the boy and the alien expedition. Mutual fear and misunderstanding gradually become cooperation as they follow clues across the reclaimed world. The boy's memories and assumptions are repeatedly challenged. The expedition's certainty about humanity also fractures as its members encounter evidence of both beauty and failure.
+At midpoint, a transmission addressed to the boy by name suggests he may not be the last human. The trail leads to his former home and evidence that he was deliberately hidden. Sealed mission records reveal that the expedition came not only to study humanity but to retrieve technology connected to its disappearance.
 
-Across the season, discoveries form a causal trail toward the truth of humanity's disappearance. The friendship between the boy and the aliens becomes increasingly consequential, eventually forcing the expedition to choose between its original mission and the living person before them.
-
-**Final revelation, antagonist and Season Two launch point remain to be locked.**
+The boy leaves the crew after the betrayal. A final broadcast reveals a human settlement beyond Earth, but activating the hidden system may expose him to the forces that displaced or destroyed humanity. In the finale, the crew sacrifices its original mission, the boy chooses connection over isolation and they transmit a new record of Earth. A human voice answers.
 
 ## Episode guide
+### 1. The Signal
+The expedition reaches Earth and finds one living boy beneath a ruined city. **Turn:** he chooses not to run. **Hook:** he recognises the music from the Golden Record.
 
-The following structure preserves the locked episodic engine but does not yet invent final canon.
+### 2. The Visitors
+A shared meal becomes the first bridge between the boy and crew. **Turn:** the scientist stops treating him as a specimen. **Hook:** his map contains unexplained signals.
 
-### Episode 1: First Contact
-The expedition arrives on Earth and discovers the boy. A dangerous misunderstanding establishes the emotional and physical rules of the series.
+### 3. Museum of Everything
+The aliens misread human artefacts while the boy confronts avoided memories. **Turn:** the security officer protects emotional rather than strategic value. **Hook:** a recently moved object suggests another visitor.
 
-### Episode 2: The Message
-The crew connects the world they found to the Voyager Golden Record and realises that humanity's invitation has outlived humanity itself.
+### 4. The City That Grew Back
+The crew crosses an urban ecosystem where nature and infrastructure have fused. **Turn:** the leader breaks protocol to save the boy. **Hook:** a repeating human-language transmission.
 
-### Episode 3: The Human Place
-A familiar human location is misread by the aliens. Its true purpose reveals something personal about the boy and advances the mystery.
+### 5. A Voice in the Dark
+An underground archive contains a recent message addressed to the boy. **Turn:** he admits he has heard it before. **Midpoint:** he may not be the last human.
 
-### Episode 4: What We Kept
-The group discovers an archive, collection or preserved object that complicates the boy's understanding of human history.
+### 6. Home
+The signal leads to the boy's former home and evidence he was deliberately hidden. **Turn:** he lets the scientist witness his grief. **Hook:** sealed expedition knowledge.
 
-### Episode 5: The Beautiful Mistake
-An apparently absurd human custom or creation becomes evidence of creativity, care or courage rather than inefficiency.
+### 7. The Golden Lie
+The ship intelligence uncovers orders to retrieve technology hidden on Earth. **Turn:** trust collapses and the boy leaves. **Hook:** the technology may connect to humanity's disappearance.
 
-### Episode 6: The Failure
-The expedition confronts evidence of humanity's capacity for damage. Trust within the group begins to fracture.
+### 8. The Last Broadcast
+The boy enters a dangerous broadcast facility alone while the crew chooses between orders and rescue. **Turn:** the security officer openly defects. **Hook:** a human settlement beyond Earth.
 
-### Episode 7: The Signal
-A new signal or active system suggests that the planet's story is not finished and that the boy may not understand his own survival.
+### 9. Departure
+Using the hidden system may reveal the boy's location to approaching forces. **Turn:** he trusts the crew with the decision. **Hook:** pursuers enter the solar system.
 
-### Episode 8: The Choice
-The expedition's internal conflict becomes explicit. The boy must act rather than simply react to the crew's decisions.
-
-### Episode 9: What Happened Here
-The clues converge into a major partial revelation about humanity's disappearance and the forces still shaping Earth.
-
-### Episode 10: Not Alone
-The season's central relationship is tested by an irreversible choice. A final discovery opens the next phase of the story.
-
-**Episode titles, locations, reveals and final plot beats remain development placeholders until the missing canon is locked.**
+### 10. A New Record
+The crew abandons its mission and helps the boy transmit a new record of Earth. **Resolution:** he leaves with a new family. **Season Two hook:** a human voice answers.
 
 ## Visual and art direction
+### Visual north star
+Premium, hyper-real feature-film science fiction with monumental scale and intimate human emotion. The aspiration is the architectural seriousness, temporal weight and practical-feeling imagery associated with Christopher Nolan's large-format cinema, combined with the immersive world-building, environmental scale and emotional clarity associated with James Cameron. These are tonal benchmarks, not imitation instructions.
 
-- Hyper-real cinematic realism
-- Large-scale natural environments
-- Familiar architecture transformed by growth, weather and time
-- Tactile surfaces and believable material detail
-- A humane, highly original alien design
-- The Golden Record as a recurring gold, circular and sonic motif
-- Wonder, loneliness and scale expressed through composition
-- No generic saucers, grey aliens or sterile science-fiction corridors
+### Image standard
+Every frame must feel photographed rather than generated. Materials need weight, weather, age, moisture and believable light interaction. Faces need micro-expression and optical imperfection. Environments must withstand close inspection without synthetic repetition, over-polish or generic AI spectacle.
 
-The visual ambition is premium feature-film science fiction adapted to episodic storytelling, with intimate character emotion held against enormous reclaimed landscapes.
+### Cinematography
+- 70% intimate archaeological mystery, 30% epic scale
+- Large-format composition for landscapes and ruins
+- 35mm–50mm observational lenses for friendship scenes
+- 85mm close portraits for vulnerable emotional beats
+- Natural weather, volumetric atmosphere and motivated light
+- Slow reveals and patient camera movement before action
+- Human figures held small against enormous environments, then brought close for emotional consequence
 
-## Cinematic reference direction
+### Production design
+Human civilisation is recognisable but transformed by biology, water, erosion and time. Nature must not read as decorative vines pasted onto ruins. It must have structurally altered the world. Alien technology should feel grown, engineered and used, with no generic chrome finish.
 
-Use references that support:
+### Character design
+The boy is weathered, resilient and real, never a costume-shop post-apocalyptic child. His repaired clothing and carried objects hold history. Alien faces must retain humanity in the eyes without resembling familiar grey aliens. Silhouettes, skin structures and movement logic should feel biologically coherent.
 
-- Awe and discovery before combat
-- Naturalistic lensing and light
-- Emotional science fiction centred on friendship
-- Archaeological mystery
-- A tactile, lived-in future rather than polished generic futurism
+### Palette and motif
+Mineral grey, wet green, deep blue, weathered concrete and living earth, interrupted by the warm metallic gold of the Record. Gold should signify signal, memory and connection rather than luxury.
 
-**Specific approved film, photography and design references still need to be gathered into the canonical deck from the user's existing visual materials.**
+### Approved user reference direction
+- Christopher Nolan-scale visual seriousness and practical-feeling cinematography
+- James Cameron-level world immersion and emotional spectacle
+- 2000AD imagination grounded in a believable physical world
+- Hasselblad-like detail and tonal depth for key stills
+
+### Avoid
+Generic saucers, sterile corridors, neon cyberpunk, overgrown-city clichés without ecological logic, sentimental glow, plastic surfaces and images that advertise the AI process.
 
 ## AI production approach
+Napkin Studio will use a canon-controlled, human-directed pipeline:
+1. Locked character and world bibles
+2. High-end still exploration using Higgsfield-class cinematic generation and approved image tools
+3. Character turnarounds, expression sets and material continuity tests
+4. Reusable environment and prop families
+5. Shot-specific motion tests in Runway and comparable cinematic tools
+6. Voice and sonic exploration through ElevenLabs
+7. Human-led edit, performance direction, continuity review and final finishing
 
-Napkin Studio will combine current AI image, motion, voice and production tools with human-led writing, direction, design and editorial control. AI is used to accelerate exploration and production, not to replace narrative judgement or craft.
-
-The workflow should include:
-
-1. Canon-controlled writing and episodic development
-2. Character and world visual development
-3. Consistency tests for the boy, alien crew and hero locations
-4. Cinematic motion studies
-5. Voice and performance exploration
-6. Shot planning and production design
-7. Human editorial, story and quality review at every stage
+AI accelerates iteration. It does not replace writing, cinematography, production design, editorial judgement or quality control.
 
 ## Two-minute motion-test plan
+1. Silent orbital approach to a living, overgrown Earth
+2. Ground-level reveal of a monumental reclaimed city
+3. The boy watching from concealment
+4. First encounter with the young scientist
+5. A tense misunderstanding resolved through a human object
+6. Music from the Golden Record creating the first emotional bridge
+7. Final signal suggesting the world is not empty
 
-The proposed test should demonstrate the heart, visual scale and production method of the series.
-
-### Suggested sequence
-
-1. The alien ship approaches a silent, overgrown Earth.
-2. The crew follows the promise of the Golden Record.
-3. A vast reclaimed human location is revealed.
-4. The boy appears, small and watchful.
-5. First contact moves from fear to curiosity.
-6. A fragment of human music creates the first emotional bridge.
-7. End on a mystery clue that suggests the world is not as empty as it appears.
-
-### Test goals
-
-- Prove alien and boy character consistency
-- Establish cinematic environmental scale
-- Demonstrate naturalistic motion and lighting
-- Test emotional performance
-- Validate the Golden Record motif
-- Establish a repeatable production pipeline
+**Test must prove:** boy consistency, alien originality, credible eye-lines and performance, environmental scale, real-world light, restrained camera motion and the Record's sonic-emotional power.
 
 ## Production considerations
-
-- Character continuity across episodes is a priority.
-- Reusable environments and asset families should be identified early.
-- The alien design requires rigorous testing before full production.
-- The mystery architecture must be locked before detailed episode scripting.
-- Sound and music are central because of the Golden Record.
-- Final schedule and budget depend on the agreed test scope and delivery standard.
+- Lock hero character models before extended sequence generation.
+- Build reusable location families rather than disconnected spectacle shots.
+- Treat water, foliage, cloth, skin and eye-lines as continuity stress tests.
+- Complete the mystery reveal ladder before scripts enter final polish.
+- Create a sound strategy early because music and recorded voices carry story.
+- Budget and schedule should be tested against a premium two-minute proof, not estimated from still-image speed.
 
 ## Franchise potential
-
-The premise supports multiple seasons because Earth contains an almost limitless range of human places, stories, objects and unresolved signals. Expansion could include new regions, additional survivors, competing alien interests, the wider consequences of humanity's disappearance and the question of whether human culture should be restored, protected or allowed to transform.
-
-Franchise extensions may include short-form discoveries, interactive archives, music-led content, art books, games and character-led digital experiences.
+The format supports further seasons across new regions, human signals, survivors, alien interests and the moral question of restoring or transforming human culture. Extensions include discovery shorts, music-led pieces, interactive archives, art books, games and character-led digital experiences.
 
 ## Proposed next step with Tencent
+Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept. The sprint should lock character names and designs, the disappearance mythology, the final visual bible, delivery standard, budget assumptions, rights and ownership framework, and Tencent's preferred route toward series production.
 
-Agree the missing core canon, review the visual development and approve a focused two-minute test. The test would validate the boy, alien art direction, reclaimed-Earth world, emotional tone and AI-assisted production pipeline before a wider production and partnership discussion.
+## Change record
+**v0.2:** Reconciled the pitch with the latest character bible and Season One map; replaced placeholder episodes with the canonical progression; expanded art direction, cinematography, image-quality rules and motion-test criteria using the user's latest visual direction.
 
-## Priority gaps for the next development pass
-
-1. Lock the boy's identity and survival history.
-2. Lock the alien expedition roster.
-3. Define the disappearance mystery and Season One reveal ladder.
-4. Define the season antagonist or opposing pressure.
-5. Replace episode placeholders with final plots.
-6. Add approved visual references and existing concept art.
-7. Define the exact Tencent test, production and ownership pathway.
+## Weakest remaining section
+The disappearance mythology and opposing force remain less specific than the emotional and visual material. They need one locked causal explanation that supports the human settlement, sealed mission orders and incoming pursuers without reducing the story to conventional invasion science fiction.
 
 © 2026 Napkin Studio. All Rights Reserved.
