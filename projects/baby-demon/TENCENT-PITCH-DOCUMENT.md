@@ -1,5 +1,5 @@
 # BABY DEMON
-## Tencent Pitch Document v0.6
+## Tencent Pitch Document v0.7
 
 **Format:** Premium episodic animated horror-comedy  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -78,8 +78,6 @@ At the first birthday, Hell sends gifts and a formal invitation. A public meltdo
 4. **Family choice, 3–4 minutes:** one parent changes approach, protects the child or tells an emotional truth.
 5. **Button and hook, under 1 minute:** a deadpan domestic image lands the comedy while Hell advances one step closer.
 
-This structure gives the comedy room to breathe, keeps the baby emotionally readable and prevents mythology from overwhelming the family engine.
-
 ## Episode-by-episode summaries
 ### 1. Special Delivery
 An exhausted couple receive the wrong baby after an impossible mix-up. They rationalise every disturbing sign until his first cry knocks out power across the neighbourhood. They choose to keep him overnight, and something beneath the building answers.
@@ -135,6 +133,34 @@ Cartoon-goth design, generic Halloween imagery, comedy lighting, plastic skin, o
 
 These references establish ambition and craft. They are not instructions to reproduce protected characters, worlds or signature shots.
 
+## Tencent visual review pack
+The first visual-development pass should produce a matched, reviewable image set rather than a loose collection of demon-baby pictures. Every image must prove a character, comedy or production claim.
+
+### Image sequence
+1. **Hero key art:** Baby Demon in his leather jacket with Mum and Dad in a recognisable New York domestic setting.
+2. **Baby front portrait:** 85mm eye-level portrait proving skin, horns, eyes, fear factor and emotional innocence.
+3. **Baby side and full-body continuity:** anatomy, scale, crawling posture, jacket fit and feet.
+4. **Baby expression sheet:** happy, tired, hungry, frightened, curious and tantrum states without losing identity.
+5. **Mum portrait:** grounded, specific and emotionally credible rather than generic advertising casting.
+6. **Dad portrait:** dry, ordinary and believable, with a visual contrast to the baby's intensity.
+7. **Family kitchen:** parenting clutter, spatial geography and the central comic contrast in one frame.
+8. **Apartment nursery:** cot, monitor, practical light, supernatural contamination and safe repeatable layout.
+9. **New York pram scene:** the baby in public while passers-by respond with comic normality.
+10. **Playgroup scene:** multiple adults and infants, social pressure and one contained supernatural escalation.
+11. **Satan portrait:** elegant, ancient and threatening, with no cartoon devil language.
+12. **Finale promise image:** Mum and Dad physically choosing the baby as Hell presses into the home.
+
+### Review gates
+- Baby Demon remains the same child across portrait, crawling, holding and public scenes.
+- The leather jacket retains scale, grain, seams and weight.
+- Parent-to-baby contact looks physically credible.
+- New York feels observed and local, not a generic urban backdrop.
+- Horror imagery remains serious while the comedy comes from situation and performance.
+- No image locks an unresolved neighbourhood, delivery mechanism or Satan rule without approval.
+- Approved images become numbered references for the two-minute motion test.
+
+**Unresolved visual choices:** exact neighbourhood; parent identities and casting profile; baby's precise age and horn growth; apartment floor plan; Satan's final silhouette; visibility of supernatural effects to bystanders.
+
 ## AI production approach
 Napkin Studio will use a canon-controlled, human-directed pipeline:
 1. Locked baby, parent, Satan and location bibles.
@@ -152,38 +178,13 @@ A premium two-minute proof will cover: a quiet morning in a cramped apartment; M
 
 **The test must prove:** baby consistency, credible infant motion, real contact with parents and props, jacket continuity, New York specificity, restrained horror effects, natural performances and comedy through contrast.
 
-## Repeatable episode production model
-The two-minute test must validate a production system that can sustain ten episodes, not merely produce one exceptional creature reveal.
+## Production considerations
+Lock the baby and jacket before sequence production. Use a limited family of repeatable New York locations. Stress-test hands, feeding, holding, stroller interaction, floor contact, infant eye-lines, facial transitions and body weight. Lock power rules and Satan mythology before final scripts. Base budget and schedule on the finished two-minute proof, including human continuity and finishing.
 
-### Reusable asset families
-- **Hero characters:** Baby Demon, Mum, Dad and Satan, with approved expression, wardrobe, age and supernatural-state continuity.
-- **Family home package:** a fully mapped apartment with repeatable rooms, windows, practical lights, clutter states and safe camera geography.
-- **Neighbourhood package:** stoop, sidewalk, bodega, park, childcare room, subway threshold and one flexible local interior.
-- **Parenting prop library:** pram, cot, high chair, bottles, toys, monitor, changing equipment and birthday materials with fixed scale references.
-- **Supernatural effects ladder:** small heat and smoke tells, environmental disturbance, portal behaviour and full Hell intrusion, each tied to an approved emotional trigger.
-
-### Episode build sequence
-1. Lock the recognisable parenting truth and family relationship turn.
-2. Choose one primary repeatable domestic or neighbourhood location.
-3. Set the baby's emotional state, power trigger and effect ceiling before shot generation.
-4. Approve physical-contact beats through boards or blocking tests.
-5. Generate only against a numbered shot plan and continuity pack.
-6. Review infant weight, hands, eye-lines, prop contact, jacket behaviour, timing and geography before edit approval.
-7. Finish comedy rhythm, sound, compositing and grade through human editorial and performance review.
-
-### Scale gates
-Tencent should only approve series expansion when the proof demonstrates:
-- Baby Demon remains recognisable and emotionally readable across holding, feeding, crawling, crying and calm states;
-- parent-to-baby contact can be completed without distracting physical errors;
-- the apartment supports multiple episodes without feeling visually repetitive;
-- supernatural escalation can grow while the comedy remains grounded in the parenting problem;
-- finished cost and schedule assumptions include correction, editorial and final-quality finishing.
-
-**Unresolved production choice:** the exact blend of generated baby performance, conventional character animation or 3D support, live-action reference, environment capture and compositing will be set by comparative motion tests.
+## Franchise potential
+Every developmental stage creates a new comic and supernatural engine: walking, language, childcare, school, sibling rivalry and inherited destiny. Expansion can move through New York's social world and Hell's bureaucracy while keeping the family central. Extensions include short-form parenting moments, character-led digital content, art books, collectibles, games and interactive experiences.
 
 ## Canon-safe decision framework
-The pitch should remain specific without pretending that unresolved family, neighbourhood and mythology choices are locked. Development will separate decisions into three explicit states.
-
 ### Locked now
 - An ordinary family is raising the son of Satan.
 - Baby Demon is frightening in appearance, baby-like in behaviour and not evil in an adult moral sense.
@@ -197,25 +198,14 @@ The pitch should remain specific without pretending that unresolved family, neig
 The cleanest current working model is a compact recurring circle with four functions: a neighbour who observes too much, a childcare professional whose ordinary rules collide with the impossible, a relative who increases judgement and family pressure, and the fearless babysitter already introduced in Episode 6. These are functions only. Names, identities, relationships and final episode use remain unresolved and are not locked canon.
 
 ### Decisions that must be closed before final scripts
-1. **Neighbourhood:** one specific area whose apartment scale, streets, childcare culture and local rhythms can support ten episodes.
-2. **Parent profiles:** names, ages, occupations, cultural backgrounds and the practical reason they remain in this home.
-3. **Delivery mix-up:** how the child reaches them, why authorities do not immediately correct it and how much the parents know.
-4. **Supporting ensemble:** four distinct people with separate comic functions, emotional loyalties and escalating levels of knowledge.
-5. **Power rules:** triggers, limits, recovery and the effect ceiling before Satan arrives.
-6. **Satan's access:** why he cannot simply take the baby and what changes at midpoint, birthday and finale.
+Neighbourhood; parent profiles; delivery mix-up; supporting ensemble; power rules; Satan's access.
 
 ### Approval test
-Every supporting character must create a repeatable parenting pressure, reveal a different side of Mum or Dad and remain funny without behaving implausibly. Every mythology rule must intensify the family conflict. Any choice that pulls focus away from the central family or turns the series into detached supernatural lore should be rejected.
-
-## Production considerations
-Lock the baby and jacket before sequence production. Use a limited family of repeatable New York locations. Stress-test hands, feeding, holding, stroller interaction, floor contact, infant eye-lines, facial transitions and body weight. Lock power rules and Satan mythology before final scripts. Base budget and schedule on the finished two-minute proof, including human continuity and finishing.
-
-## Franchise potential
-Every developmental stage creates a new comic and supernatural engine: walking, language, childcare, school, sibling rivalry and inherited destiny. Expansion can move through New York's social world and Hell's bureaucracy while keeping the family central. Extensions include short-form parenting moments, character-led digital content, art books, collectibles, games and interactive experiences.
+Every supporting character must create a repeatable parenting pressure, reveal a different side of Mum or Dad and remain funny without behaving implausibly. Every mythology rule must intensify the family conflict.
 
 ## Proposed Tencent development sprint
 ### Gate 1: Family and comedy truth
-Lock the parent profiles, emotional logic of the delivery mix-up, baby's power limits and exact family choice at midpoint and finale. Every mythology answer must create a stronger parenting conflict and clearer comic engine.
+Lock the parent profiles, emotional logic of the delivery mix-up, baby's power limits and exact family choice at midpoint and finale.
 
 ### Gate 2: Character and New York proof
 Approve one definitive Baby Demon design and leather jacket, one grounded parent pairing, one specific neighbourhood and apartment profile, and a small recurring ensemble.
@@ -229,14 +219,16 @@ Using the finished proof, agree the reusable location and character strategy, hu
 ### Sprint outputs
 - Locked family, power-rule and mythology decision register.
 - Updated character, neighbourhood and world bible.
-- Approved visual-development pack.
+- Approved twelve-image visual review pack.
 - Finished two-minute proof with sound.
 - Production assumptions, risk register and indicative series pathway.
 
 ## Next-step ask for Tencent
-Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept set in New York. The sprint will lock parent and baby names, neighbourhood, recurring ensemble, power rules, Satan mythology, final visual bible, repeatable episode production model, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
+Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept set in New York. The sprint will lock parent and baby names, neighbourhood, recurring ensemble, power rules, Satan mythology, final visual bible, the twelve-image review pack, repeatable episode production model, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
+**v0.7:** Added a twelve-image Tencent visual review pack with a deliberate production order, canon-safe review gates and explicit unresolved visual choices, turning image generation into an approval pathway for the motion test.
+
 **v0.6:** Added a canon-safe decision framework separating locked facts, a clearly labelled provisional supporting-ensemble model, unresolved decisions and an approval test for the social world and mythology.
 
 **v0.5:** Added a repeatable episode production model covering reusable asset families, episode build sequence, scale gates and the production decision that remains unresolved after the proof.
@@ -246,6 +238,6 @@ Approve a joint story-and-visual development sprint leading to a premium two-min
 **v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode into review-ready comedy and emotional summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
-The exact delivery mix-up and Satan-access rules are now the weakest remaining section. They need one simple comic mechanism explaining how the baby reaches the family, why the error cannot be immediately reversed and why Satan must escalate indirectly before arriving in person.
+The exact delivery mix-up and Satan-access rules remain the weakest section. They need one simple comic mechanism explaining how the baby reaches the family, why the error cannot be immediately reversed and why Satan must escalate indirectly before arriving in person.
 
 © 2026 Napkin Studio. All Rights Reserved.

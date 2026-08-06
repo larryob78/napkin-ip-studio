@@ -1,5 +1,5 @@
 # THE LAST BOY ON EARTH
-## Tencent Pitch Document v0.6
+## Tencent Pitch Document v0.7
 
 **Format:** Premium episodic animated science-fiction adventure  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -77,8 +77,6 @@ After the betrayal, the boy leaves. A final broadcast reveals a human settlement
 4. **Choice and consequence, 3–4 minutes:** the boy or crew member makes a relationship-changing choice.
 5. **Closing hook, under 1 minute:** a new signal, image or revelation expands the season question.
 
-This structure protects emotional breathing room while ensuring every chapter delivers location, character movement and serial propulsion.
-
 ## Episode-by-episode summaries
 ### 1. The Signal
 The expedition reaches Earth and finds one living boy beneath a ruined city. A frightening first contact becomes a fragile choice not to run. The music playing from the Golden Record proves he understands why they came.
@@ -133,6 +131,33 @@ Generic saucers, grey aliens, sterile corridors, neon cyberpunk, sentimental glo
 
 These references establish ambition and craft. They are not instructions to reproduce protected characters, worlds or signature shots.
 
+## Tencent visual review pack
+The first visual-development pass should produce a matched, reviewable image set rather than disconnected concept art. Every image must prove a specific canon, character or production claim.
+
+### Image sequence
+1. **Hero key art:** the boy, reclaimed Earth, alien arrival and Golden Record in one emotionally legible composition.
+2. **Boy portrait:** front-facing 85mm portrait proving age, humanity, weathering and vulnerability.
+3. **Boy full-body continuity:** repaired wardrobe, backpack, scale references and personal objects.
+4. **Young scientist portrait:** humane but unmistakably non-human, with an original silhouette and readable curiosity.
+5. **Expedition group:** leader, scientist and security officer showing distinct hierarchy, anatomy, movement and purpose.
+6. **Alien ship exterior:** culturally coherent, non-saucer arrival craft with material logic and scale.
+7. **Reclaimed city:** architecture transformed structurally by nature, not decorated with vines.
+8. **Human memory interior:** a domestic ruin where one ordinary object carries emotional meaning.
+9. **Golden Record close-up:** tactile, scratched and luminous without becoming magical fantasy.
+10. **First-contact scene:** eye-lines, distance, fear and curiosity between the boy and scientist.
+11. **Episode-five signal image:** archive darkness, human transmission and hope becoming dangerous.
+12. **Finale promise image:** the new family leaving Earth while a human voice answers.
+
+### Review gates
+- The boy remains recognisable across portrait, landscape and interaction shots.
+- The aliens share one civilisation but do not collapse into one silhouette.
+- Earth feels specific, inhabitable and physically real.
+- The Golden Record reads as emotional evidence, not a fantasy prop.
+- No image contradicts unresolved mythology by presenting a provisional answer as fact.
+- Approved images become numbered references for the two-minute motion test.
+
+**Unresolved visual choices:** final boy identity; alien anatomy and cultural grammar; exact ship materials; location geography; whether the hero key art includes the approaching force. These remain explicitly open until approved.
+
 ## AI production approach
 Napkin Studio will use a canon-controlled, human-directed pipeline:
 1. Locked character, object and world bibles.
@@ -150,37 +175,13 @@ A premium two-minute proof will cover: orbital arrival; ground-level reclaimed-c
 
 **The test must prove:** boy consistency, alien originality, eye-lines and performance, environmental scale, credible natural light, restrained camera motion and the Record's sonic-emotional power.
 
-## Repeatable episode production model
-The two-minute test must validate a production system that can be repeated across ten episodes, not merely produce one exceptional sequence.
+## Production considerations
+Lock hero characters before extended sequence generation. Build reusable location families. Stress-test water, foliage, cloth, skin, hands and eye-lines. Complete the mystery reveal ladder before script polish. Establish sound early. Base budget and schedule on a finished two-minute proof, including human continuity and finishing, not still-generation speed.
 
-### Reusable asset families
-- **Hero characters:** the boy, four expedition roles and approved variants for damage, weather and emotional state.
-- **Expedition package:** ship interiors, landing equipment, field tools, interfaces and mission-record graphics sharing one alien design grammar.
-- **Earth location families:** reclaimed city, intimate domestic ruin, cultural/archive space and wilderness infrastructure.
-- **Human memory objects:** a controlled library of props whose physical condition and emotional provenance remain traceable.
-- **Atmosphere and ecology:** approved foliage behaviours, weather states, water interaction, dust, insects and environmental sound beds.
-
-### Episode build sequence
-1. Lock the episode's emotional turn and mystery clue.
-2. Select one primary reusable location family and one contained secondary space.
-3. Approve character continuity states before motion generation.
-4. Generate only against a numbered shot plan and reference pack.
-5. Review performance, scale, hands, eye-lines, contact, materials and geography before edit approval.
-6. Finish picture and sound through human editorial, continuity, compositing and grade.
-
-### Scale gates
-Tencent should only approve series expansion when the proof demonstrates:
-- a hero character can remain recognisable across dialogue, movement, weather and lens changes;
-- one environment family can support multiple distinct sequences without visual repetition;
-- alien technology remains culturally coherent across props and interfaces;
-- emotional acting survives the production pipeline;
-- finished cost and schedule assumptions include correction, editorial and final-quality finishing.
-
-**Unresolved production choice:** the exact balance between fully generated environments, practical or scanned source material, conventional 3D assets and compositing will be set after comparative motion tests.
+## Franchise potential
+Further seasons can explore new regions, signals, survivors, alien interests and the moral question of restoring or transforming human culture. Extensions include discovery shorts, music-led films, interactive archives, art books, games and character-led digital experiences.
 
 ## Canon-safe decision framework
-The project should not conceal unresolved mythology behind polished language. Development will separate decisions into three explicit states so Tencent can review the series honestly.
-
 ### Locked now
 - The Golden Record brings the expedition to Earth.
 - The boy is the last known human child, not yet confirmed as the final human alive.
@@ -194,27 +195,17 @@ The project should not conceal unresolved mythology behind polished language. De
 The cleanest current hypothesis is that the hidden technology is a communication or navigation system linked to humanity's departure, the boy was concealed because his existence or location could compromise surviving humans, and the sealed alien orders treat the system as an objective rather than a moral responsibility. This is a development hypothesis only. It is not locked canon.
 
 ### Decisions that must be closed before final scripts
-1. **Disappearance:** departure, forced displacement, destruction or a combination.
-2. **Boy's concealment:** who hid him, why he could not leave and why he survived.
-3. **Hidden technology:** what it does, why Earth still contains it and why the expedition was ordered to retrieve it.
-4. **Approaching force:** what it wants, whether it caused humanity's disappearance and why it reacts now.
-5. **Off-world humans:** who sent the message, why they remained silent and what answering the new Record risks.
+Disappearance; boy's concealment; hidden technology; approaching force; off-world humans.
 
 ### Approval test
-The final causal chain must be explainable in five sentences, generate emotional consequences for the boy and crew, support every reveal from Episodes 5–10 and avoid reducing the story to a conventional invasion plot. Any solution that does not improve the boy's choice between isolation and belonging should be rejected.
-
-## Production considerations
-Lock hero characters before extended sequence generation. Build reusable location families. Stress-test water, foliage, cloth, skin, hands and eye-lines. Complete the mystery reveal ladder before script polish. Establish sound early. Base budget and schedule on a finished two-minute proof, including human continuity and finishing, not still-generation speed.
-
-## Franchise potential
-Further seasons can explore new regions, signals, survivors, alien interests and the moral question of restoring or transforming human culture. Extensions include discovery shorts, music-led films, interactive archives, art books, games and character-led digital experiences.
+The final causal chain must be explainable in five sentences, generate emotional consequences for the boy and crew, support every reveal from Episodes 5–10 and avoid reducing the story to a conventional invasion plot.
 
 ## Proposed Tencent development sprint
 ### Gate 1: Story truth
 Lock the boy's working identity, the emotional meaning of his concealment and a single causal reveal ladder connecting the hidden technology, sealed alien orders, off-world human settlement and approaching force.
 
 ### Gate 2: Character and world proof
-Approve one definitive boy design, one coherent alien design grammar and three reusable environment families. Confirm the crew remain distinct in silhouette, movement, motive and relationship to humanity.
+Approve one definitive boy design, one coherent alien design grammar and three reusable environment families.
 
 ### Gate 3: Two-minute cinematic proof
 Produce and finish a two-minute sequence demonstrating arrival, first contact, emotional performance, reclaimed-Earth scale, the Golden Record motif and a serial mystery hook.
@@ -225,14 +216,16 @@ Using the finished proof, agree the repeatable asset strategy, human finishing r
 ### Sprint outputs
 - Locked story reveal ladder and unresolved-choice register.
 - Updated character and world bible.
-- Approved visual-development pack.
+- Approved twelve-image visual review pack.
 - Finished two-minute proof with sound.
 - Production assumptions, risk register and indicative series pathway.
 
 ## Next-step ask for Tencent
-Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept. The sprint will lock character names and designs, disappearance mythology, alien culture, final visual bible, repeatable episode production model, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
+Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept. The sprint will lock character names and designs, disappearance mythology, alien culture, final visual bible, the twelve-image review pack, repeatable episode production model, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
+**v0.7:** Added a twelve-image Tencent visual review pack with a deliberate production order, canon-safe review gates and explicit unresolved visual choices, turning concept-art generation into an approval pathway for the motion test.
+
 **v0.6:** Added a canon-safe decision framework separating locked facts, a clearly labelled provisional hypothesis, unresolved mythology decisions and an approval test for the final causal chain.
 
 **v0.5:** Added a repeatable episode production model covering reusable asset families, episode build sequence, scale gates and the production decision that remains unresolved after the proof.
@@ -242,6 +235,6 @@ Approve a joint story-and-visual development sprint leading to a premium two-min
 **v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode into review-ready dramatic summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
-The alien expedition's cultural identity is now the weakest remaining section. Its anatomy, clothing, movement, tools, ship materials, authority structure and relationship to the Golden Record need one coherent design grammar before character and motion approval.
+The alien expedition's cultural identity remains the weakest section. Its anatomy, clothing, movement, tools, ship materials, authority structure and relationship to the Golden Record need one coherent design grammar before the visual review pack can be approved.
 
 © 2026 Napkin Studio. All Rights Reserved.
