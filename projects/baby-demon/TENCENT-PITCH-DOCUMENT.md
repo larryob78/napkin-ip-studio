@@ -1,5 +1,5 @@
 # BABY DEMON
-## Tencent Pitch Document v0.2
+## Tencent Pitch Document v0.3
 
 **Format:** Premium episodic animated horror-comedy  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -12,198 +12,154 @@ An ordinary New York family is raising the son of Satan, and every everyday pare
 After an impossible administrative mix-up leaves an ordinary New York couple with the son of Satan, they try to raise their terrifying-looking baby with love, parenting advice and improvised household logic while his milestones attract the attention of Hell.
 
 ## Series overview
-Baby Demon is a family comedy photographed with the visual conviction of a premium horror film. The world is contemporary, recognisable, New York-based and completely photoreal. Apartments, brownstones, sidewalks, subway platforms, playgroups, parks and bodegas feel observed rather than designed. The baby is the only element that looks visually out of sync.
+Baby Demon is a family comedy photographed with the conviction of a premium horror film. New York is contemporary, recognisable and completely photoreal. Apartments, brownstones, sidewalks, subway platforms, playgroups, parks and bodegas feel observed rather than designed. The baby is the only element that looks visually out of sync.
 
-Each episode begins with a universal parenting challenge. The baby's demonic nature intensifies it, Mum and Dad apply ordinary parenting logic, and their solution creates a larger supernatural consequence. The comedy comes from character, denial and the collision between domestic routine and serious horror imagery. The heart comes from unconditional love under impossible pressure.
+Each episode begins with a universal parenting problem. The baby's demonic nature intensifies it, Mum and Dad apply ordinary parenting logic, and their solution creates a larger supernatural consequence. Comedy comes from character, denial and the collision between domestic routine and serious horror imagery. The heart comes from unconditional love under impossible pressure.
 
 ## Emotional engine
-The season question is: can two ordinary people become the parents this extraordinary child needs before Hell comes to take him back?
+Can two ordinary people become the parents this extraordinary child needs before Hell comes to take him back?
 
 Mum wants to understand the baby. Dad wants to survive the baby. The baby wants both parents. Satan wants ownership. Every supernatural conflict is also a family conflict.
 
-**Season emotional progression:** denial → adaptation → attachment → exposure → choice.
+**Emotional progression:** denial → adaptation → attachment → exposure → choice.
 
 ## World bible
 ### New York
-The series is grounded in lived-in New York rather than postcard spectacle. The family inhabits a real apartment with imperfect space, layered possessions, street noise and parenting clutter. Brownstone stoops, local parks, the subway, a neighbourhood bodega and childcare spaces give the family an immediate social world.
+The family inhabits a lived-in apartment with imperfect space, layered possessions, street noise and parenting clutter. Brownstone stoops, local parks, the subway, a neighbourhood bodega and childcare spaces form an immediate social world rather than postcard New York.
 
 ### Baby Demon
-He is a photoreal demonic infant with small horns, ember-like eyes, tiny claws and imperfect baby teeth becoming fangs. He purrs when happy, growls when tired and bends reality when frustrated. He is frightening in a still image but unmistakably baby-like in motion.
+A photoreal demonic infant with small horns, ember-like eyes, tiny claws and imperfect baby teeth becoming fangs. He purrs when happy, growls when tired and bends reality when frustrated. He is frightening in a still image but unmistakably baby-like in motion.
 
 ### Hell and the supernatural
-Hell expands from small domestic intrusions to direct pressure from Satan. Supernatural escalation always grows from the parenting problem. It should never become detached fantasy spectacle.
+Hell expands from small domestic intrusions to direct pressure from Satan. Supernatural escalation must always grow from the parenting problem and never become detached fantasy spectacle.
 
 ### Social response
-New Yorkers respond with comic rationalisation, impatience, practical acceptance or misplaced normality. The city is difficult to shock. That indifference makes the impossible baby funnier.
+New Yorkers answer the impossible with rationalisation, impatience, practical acceptance or misplaced normality. The city's refusal to be impressed makes the baby funnier.
 
-### Locked world rules
-- Comedy comes first; horror provides visual conviction.
+### Locked rules
+- Comedy comes first; horror supplies visual conviction.
 - The family and city remain believable.
 - Baby Demon is not evil in an adult moral sense.
-- Every episode contains a recognisable parenting truth.
+- Every episode contains an emotional parenting truth.
 - Ordinary solutions create supernatural consequences.
 - Cruelty toward the child is never the joke.
 
-### Canon still to be locked
-- Exact neighbourhood and apartment profile
-- Parent names, ages and occupations
-- Precise mechanics of the delivery mix-up
-- Rules and limits of the baby's powers
-- Supporting neighbours, childcare figures and relatives
+### Unresolved choices
+Exact neighbourhood and apartment profile; parent names, ages and occupations; mechanics of the delivery mix-up; limits of the baby's powers; recurring neighbours, childcare figures and relatives.
 
 ## Character bible
 ### Baby Demon
-**External want:** love, food, play, attention and immediate satisfaction.  
-**Internal need:** feel that he belongs to this family despite his dangerous nature.  
-**Contradiction:** looks terrifying, behaves like an affectionate and needy baby.  
-**Flaw:** no control over emotions or powers.  
-**Gift:** absolute loyalty to those he loves.  
-**Season arc:** begins as a mysterious foundling, starts making choices and protecting his parents, and ultimately rejects Hell's claim.
+He wants love, food, play, attention and immediate satisfaction. He needs to feel he belongs despite his dangerous nature. His core contradiction is simple: he looks terrifying and behaves like an affectionate, needy baby. His lack of emotional control drives the supernatural comedy; his absolute loyalty provides the heart.
 
-**Signature wardrobe:** a tiny, beautifully made black leather biker jacket. It is iconic and funny because it is treated as real clothing, not a costume gag.
+**Signature wardrobe:** a beautifully made tiny black leather biker jacket, treated as real clothing rather than a costume gag.
 
 ### Mum
-The emotional centre and primary believer. She interprets demonic behaviour through parenting books, online advice and maternal instinct. Her flaw is believing every problem can be solved by trying harder. Her arc is from anxious perfectionism to confident, unconventional motherhood.
+The emotional centre and primary believer. She interprets demonic behaviour through parenting books, online advice and instinct. Her flaw is believing every problem can be solved by trying harder. Her arc moves from anxious perfectionism to confident, unconventional motherhood.
 
 ### Dad
-Pragmatic, dry and deeply avoidant. He explains supernatural events through household faults, improvised DIY and deadpan logic. Terrified of the baby but completely besotted with him, he ends the season openly claiming him as his son.
+Pragmatic, dry and avoidant. He explains supernatural events through household faults, improvised DIY and deadpan logic. He is terrified of the baby and completely besotted with him. He ends the season openly claiming him as his son.
 
 ### Satan
-The absent biological father and season antagonist. Ancient, charismatic and magnificent, but emotionally incapable of understanding why the child prefers ordinary human parents. Cosmic evil collides with bruised ego, divorced-parent energy and terrible co-parenting instincts.
+The absent biological father and season antagonist. Ancient, charismatic and magnificent, but unable to understand why the child prefers ordinary human parents. Cosmic evil collides with bruised ego, divorced-parent energy and terrible co-parenting instincts.
 
-### Core family dynamic
-Mum and Dad disagree about method but grow into an effective crisis team. The baby's choice of them over Satan is the emotional resolution of the season.
+**Unresolved:** names, occupations, exact ages, supporting cast and neighbourhood.
 
-**Still to be locked:** names, occupations, exact ages, supporting cast and neighbourhood.
-
-## Season One arc
+## Season arc
 An exhausted couple receive the wrong baby after a mix-up that may not be administrative. They interpret his first supernatural events as extreme newborn behaviour and choose to keep him overnight. As sleep training, teething, playgroup and first words escalate, the couple becomes attached and increasingly capable.
 
-At midpoint, the baby's first word opens a portal and reveals that he is Satan's son. Hell begins communicating through screens, mirrors and baby monitors. The parents' exhaustion and disagreement create a fracture just as their secret becomes impossible to hide.
+At midpoint, the baby's first word opens a portal and reveals that he is Satan's son. Hell begins communicating through screens, mirrors and baby monitors. Exhaustion and disagreement fracture the parents just as their secret becomes impossible to hide.
 
-At the first birthday, Hell sends gifts and a formal invitation. A public meltdown exposes the child to the neighbourhood and tears open the sky. Satan arrives and offers safety, wealth and restored normality in exchange for his son. The parents choose the child. The baby chooses them. His decision awakens something older than Satan.
+At the first birthday, Hell sends gifts and a formal invitation. A public meltdown exposes the child and tears open the sky. Satan arrives and offers safety, wealth and restored normality in exchange for his son. The parents choose the child. The baby chooses them. His decision awakens something older than Satan.
 
-## Episode guide
+## Fifteen-minute episode architecture
+Each episode works as a complete parenting comedy with a serial mythology turn:
+
+1. **Cold open, 1–2 minutes:** a painfully recognisable parenting problem is established in ordinary New York life.
+2. **Normal solution, 3–4 minutes:** Mum and Dad apply conflicting advice, denial or improvised household logic.
+3. **Supernatural escalation, 4–5 minutes:** the baby's milestone turns the domestic problem into horror-scale chaos.
+4. **Family choice, 3–4 minutes:** one parent changes approach, protects the child or tells an emotional truth.
+5. **Button and hook, under 1 minute:** a deadpan domestic image lands the comedy while Hell advances one step closer.
+
+This structure gives the comedy room to breathe, keeps the baby emotionally readable and prevents mythology from overwhelming the family engine.
+
+## Episode-by-episode summaries
 ### 1. Special Delivery
-A baby arrives through an impossible mix-up. His first cry knocks out power across the neighbourhood. **Turn:** the couple keeps him overnight. **Hook:** something below the building answers.
+An exhausted couple receive the wrong baby after an impossible mix-up. They rationalise every disturbing sign until his first cry knocks out power across the neighbourhood. They choose to keep him overnight, and something beneath the building answers.
 
 ### 2. Sleep Through the Night
-Every sleep-training method makes the baby's nightmares physically manifest. **Turn:** Dad stops treating him as temporary. **Hook:** he sleeps peacefully above a glowing crack.
+Every sleep-training method makes the baby's nightmares physically manifest in the apartment. Dad stops treating him as temporary. The baby finally sleeps while held above a glowing crack in the floor.
 
 ### 3. Teething
-Fangs emerge, household objects vanish and the family dog obeys him. **Turn:** Mum trusts her instincts over judgement. **Hook:** a symbol appears on his gum.
+Fangs arrive, household objects disappear and the family dog begins obeying the baby. Mum rejects outside judgement and trusts her instincts. A symbol appears on his gum.
 
 ### 4. Playgroup
-A nursery rhyme becomes a summoning ritual. **Turn:** the parents operate as a crisis team. **Hook:** a creature kneels before the baby.
+At a local baby group, a nursery rhyme becomes a summoning ritual. The couple finally works as a crisis team. One of the summoned creatures recognises the baby and kneels.
 
 ### 5. First Word
-The parents compete for “Mum” or “Dad”; the baby speaks an ancient command and opens a portal. **Midpoint:** he is Satan's son.
+Mum and Dad compete for the baby's first word. Instead, he speaks an ancient command and opens a portal. The parents learn he is Satan's son and that Hell now knows where he is.
 
 ### 6. The Babysitter
-A rare night out ends when the babysitter returns speaking in an ancient voice. **Turn:** the parents admit their fear and exhaustion.
+Desperate for one normal evening, the parents hire a fearless sitter. The baby behaves perfectly until they leave. The sitter returns speaking in an ancient voice, forcing Mum and Dad to admit how frightened and exhausted they are.
 
 ### 7. Daddy Issues
-Satan appears through screens, mirrors and monitors, belittling the human father. **Turn:** Dad openly claims the child as his son.
+Satan appears through screens, mirrors and baby monitors, criticising the human father and offering the child power. Dad stops hiding behind jokes and openly claims the baby as his son.
 
 ### 8. The Birthday Party
-A normal first birthday is disrupted by increasingly elaborate gifts from Hell. **Turn:** the secret nearly becomes public. **Hook:** a dated invitation.
+The parents stage a perfectly normal first birthday while Hell sends increasingly elaborate gifts. Their performance of normality nearly exposes the truth. The final gift is an invitation with a date.
 
 ### 9. The Child from Hell
-An emotional meltdown tears open the sky above New York. **Turn:** Mum and Dad fracture over safety. **Hook:** Satan arrives.
+A public emotional meltdown tears open the sky above New York. The neighbourhood finally sees what the child can do. Mum and Dad fracture over whether keeping him is safe, just as Satan arrives.
 
 ### 10. Family Day
-Satan offers the parents everything they thought they wanted in exchange for the child. **Climax:** they stand against Hell. **Resolution:** the baby chooses them. **Season Two hook:** something older wakes.
+Satan offers safety, wealth and restored normality in exchange for his son. Mum and Dad stand against Hell together. Baby Demon chooses them, and that choice awakens something older than Satan.
 
 ## Visual and art direction
 ### Visual north star
-A horror-comedy that looks completely serious. The family, New York and every domestic detail are photographed as a believable premium live-action world. Baby Demon is the single impossible element. The comedy comes from the mismatch, not from broad styling.
+A horror-comedy that looks completely serious. The family, New York and every domestic detail are photographed as a believable premium live-action world. Baby Demon is the single impossible element. Christopher Nolan's photographic discipline and practical-feeling weight, James Cameron's creature credibility and emotional spectacle, and premium live-action horror craft are established tonal references, not imitation instructions.
 
-The cinematic ambition is feature-film scale and conviction. Use the architectural seriousness, photographic discipline and practical-feeling weight associated with Christopher Nolan's cinema, combined with the immersive creature realism and emotional clarity associated with James Cameron. These are tonal benchmarks, not imitation instructions.
-
-### Image standard
-The baby must withstand a full-screen close-up. Skin pores, fine hair, wet eyes, tiny nails, leather grain, jacket stitching and subtle heat distortion must feel physically present. He must never look like a toy, mascot, game render or Halloween character. The parents and environments require equal photographic credibility.
-
-### New York setting
-- Lived-in apartment kitchen, nursery and living room
-- Brownstone stoop and residential sidewalk
-- Stroller moving through real pedestrian density
-- Subway entrance, platform or carriage
-- Neighbourhood bodega at night
-- City park and playgroup environment
-
-Locations should feel observed, imperfect and socially alive. Avoid generic skyline establishing shots unless story requires them.
-
-### Baby design
-- Hyper-real infant proportions and movement
-- Small biologically plausible horns
-- Ember-like eyes that remain emotionally readable
-- Tiny claws and uneven baby fangs
-- Subtle smoke, warmth and heat shimmer when emotional
-- Black leather jacket with genuine tailoring, wear and weight
-- Frightening in stillness; adorable, clumsy and needy in motion
-
-### Cinematography
-- Natural window light and practical household sources
-- 35mm–50mm lenses for family life and city observation
-- 85mm close portraits for emotional and creature detail
-- Controlled horror push-ins used sparingly
-- Handheld or gently observational movement during domestic chaos
-- Infernal red-orange light only when supernatural force enters the scene
-- No sitcom coverage, fisheye comedy or overt visual punchlines
-
-### Palette and production design
-New York neutrals, aged brick, dark green, sodium-vapour amber, winter blue and warm apartment tungsten. The baby's jacket anchors the blacks. Infernal colour appears as a contamination of the normal palette rather than a permanent fantasy scheme.
-
-### Approved user reference direction
-- Christopher Nolan-level seriousness, scale and photographic discipline
-- James Cameron-level creature credibility and emotional spectacle
-- Premium live-action horror craft inside a recognisable family world
-- Higgsfield-level high-end cinematic still quality as the minimum exploration benchmark
+### Cinematography and design
+- Natural window light and practical household sources.
+- 35–50mm lenses for family life and city observation; 85mm for intimate creature detail.
+- Controlled horror push-ins used sparingly.
+- Gently observational movement during domestic chaos.
+- Infernal red-orange light appears only when supernatural force contaminates the normal world.
+- New York neutrals, aged brick, dark green, sodium amber, winter blue and warm apartment tungsten.
+- The leather jacket must show real grain, stitching, wear and weight.
+- The baby must remain adorable, clumsy and needy in motion.
 
 ### Avoid
-Purple-and-black gothic shorthand, cartoon occult symbols, comedy lighting, cute-goth styling, plastic skin, oversized fantasy horns, generic AI faces and supernatural effects detached from the parenting problem.
+Cartoon-goth design, generic Halloween imagery, comedy lighting, plastic skin, oversized fantasy horns, generic AI faces and supernatural effects detached from parenting.
 
 ## AI production approach
 Napkin Studio will use a canon-controlled, human-directed pipeline:
-1. Locked baby, parent and Satan character bibles
-2. High-end photoreal still exploration using Higgsfield-class generation and approved tools
-3. Baby turnarounds, expression studies, jacket material tests and age-consistency sheets
-4. New York location families built for repeat use
-5. Motion tests for infant performance, eye-lines, contact, cloth, skin and supernatural effects
-6. Voice and sonic exploration through ElevenLabs
-7. Human-led comedy edit, continuity review and final finishing
+1. Locked baby, parent and Satan bibles.
+2. High-end photoreal still exploration using Higgsfield-class and approved tools.
+3. Baby turnarounds, expression studies, jacket tests and age-consistency sheets.
+4. Reusable New York location families.
+5. Motion tests for infant performance, contact, cloth, skin and supernatural effects.
+6. Voice and sonic exploration through ElevenLabs.
+7. Human-led writing, comedy editing, continuity review and finishing.
 
-The baby is the key technical asset. Consistency, emotional readability and contact with live-action-style environments take priority over output volume.
+The baby is the key technical asset. Consistency, emotional readability and physical contact take priority over output volume.
 
-## Two-minute motion-test plan
-1. Quiet morning in a cramped New York apartment
-2. Mum and Dad debate an ordinary sleep or feeding problem
-3. Reveal Baby Demon in his leather jacket, treated without visual joke punctuation
-4. A small milestone begins, such as first word or teething
-5. The parents follow ordinary advice
-6. The apartment and street react to escalating supernatural energy
-7. End on an intimate family gesture that proves the baby is loved
+## Motion-test plan
+A premium two-minute proof will cover: a quiet morning in a cramped apartment; Mum and Dad debating an ordinary feeding or sleep problem; the unpunctuated reveal of Baby Demon in his leather jacket; a milestone such as teething or first word; ordinary advice making matters worse; supernatural energy affecting apartment and street; and an intimate family gesture proving he is loved.
 
-**Test must prove:** baby consistency, credible infant motion, real contact with parents and props, jacket continuity, New York believability, restrained horror effects, natural performances and comedy through contrast.
+**The test must prove:** baby consistency, credible infant motion, real contact with parents and props, jacket continuity, New York specificity, restrained horror effects, natural performances and comedy through contrast.
 
 ## Production considerations
-- Lock the baby model and leather jacket before sequence production.
-- Use a limited set of hero New York locations as reusable production assets.
-- Stress-test hands, feeding, holding, stroller interaction and floor contact.
-- Treat infant eye-lines, facial transitions and body weight as quality gates.
-- Lock power rules and Satan mythology before final scripts.
-- Budget and schedule should be based on the premium two-minute test, including human finishing and continuity work.
+Lock the baby and jacket before sequence production. Use a limited family of repeatable New York locations. Stress-test hands, feeding, holding, stroller interaction, floor contact, infant eye-lines, facial transitions and body weight. Lock power rules and Satan mythology before final scripts. Base budget and schedule on the finished two-minute proof, including human continuity and finishing.
 
 ## Franchise potential
-Every developmental stage creates a new comic and supernatural engine: walking, language, childcare, school, sibling rivalry and inherited destiny. Expansion can move through New York's wider social world and Hell's bureaucracy while keeping the family central. Extensions include short-form parenting moments, character-led digital content, art books, collectibles, games and interactive experiences.
+Every developmental stage creates a new comic and supernatural engine: walking, language, childcare, school, sibling rivalry and inherited destiny. Expansion can move through New York's social world and Hell's bureaucracy while keeping the family central. Extensions include short-form parenting moments, character-led digital content, art books, collectibles, games and interactive experiences.
 
-## Proposed next step with Tencent
-Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept set in New York. The sprint should lock parent and baby names, neighbourhood, power rules, Satan's mythology, final visual bible, production standard, budget assumptions, rights and ownership framework, and Tencent's preferred route toward series production.
+## Next-step ask for Tencent
+Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept set in New York. The sprint will lock parent and baby names, neighbourhood, recurring ensemble, power rules, Satan mythology, final visual bible, production standard, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
-**v0.2:** Reconciled the pitch with the latest character bible and Season One map; replaced placeholder episodes with canonical plots; established New York as the working real-world setting; locked the leather jacket as Baby Demon's visual signature; expanded the cinematography, image-quality and motion-test standards.
+**v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode from shorthand beats into review-ready comedy and emotional summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
-The supporting New York ensemble is still undefined. The series needs a small recurring group, likely a neighbour, childcare figure, relative and babysitter, whose personalities create social comedy and pressure without diluting the four-character family engine.
+The recurring New York ensemble remains the least resolved area. The series needs a small, specific social circle, likely a neighbour, childcare figure, relative and babysitter, whose competing personalities create pressure and comedy without diluting Mum, Dad, Baby Demon and Satan.
 
 © 2026 Napkin Studio. All Rights Reserved.
