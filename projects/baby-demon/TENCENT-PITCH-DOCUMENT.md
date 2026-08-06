@@ -1,5 +1,5 @@
 # BABY DEMON
-## Tencent Pitch Document v0.3
+## Tencent Pitch Document v0.4
 
 **Format:** Premium episodic animated horror-comedy  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -153,10 +153,34 @@ Lock the baby and jacket before sequence production. Use a limited family of rep
 ## Franchise potential
 Every developmental stage creates a new comic and supernatural engine: walking, language, childcare, school, sibling rivalry and inherited destiny. Expansion can move through New York's social world and Hell's bureaucracy while keeping the family central. Extensions include short-form parenting moments, character-led digital content, art books, collectibles, games and interactive experiences.
 
+## Proposed Tencent development sprint
+The immediate objective is not to manufacture volume. It is to remove the highest-risk creative and production uncertainties before Tencent considers a pilot or series commitment.
+
+### Gate 1: Family and comedy truth
+Lock the parent profiles, the emotional logic of the delivery mix-up, the baby's power limits and the exact family choice at the midpoint and finale. Every mythology answer must create a stronger parenting conflict and a clearer comic engine.
+
+### Gate 2: Character and New York proof
+Approve one definitive Baby Demon design and leather jacket, one grounded parent pairing, one specific neighbourhood and apartment profile, and a small recurring ensemble. Confirm that New York feels observed, socially alive and repeatable rather than like a collection of landmarks.
+
+### Gate 3: Two-minute cinematic proof
+Produce and finish a two-minute sequence that demonstrates credible infant performance, physical contact, domestic comedy, New York specificity, premium horror imagery and an intimate family beat. Review against consistency, timing, emotional readability and contrast, not generation speed.
+
+### Gate 4: Production pathway
+Using the finished proof, agree the reusable location and character strategy, human comedy and performance finishing, schedule range, cost assumptions, rights position and the production route for ten approximately 15-minute episodes.
+
+### Sprint outputs
+- Locked family, power-rule and mythology decision register.
+- Updated character, neighbourhood and world bible.
+- Approved visual-development pack.
+- Finished two-minute proof with sound.
+- Production assumptions, risk register and indicative series pathway.
+
 ## Next-step ask for Tencent
 Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept set in New York. The sprint will lock parent and baby names, neighbourhood, recurring ensemble, power rules, Satan mythology, final visual bible, production standard, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
+**v0.4:** Added a decision-gated Tencent development sprint defining the family, New York, motion-proof and production approvals required before pilot or series commitment.
+
 **v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode from shorthand beats into review-ready comedy and emotional summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
