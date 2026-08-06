@@ -1,5 +1,5 @@
 # THE LAST BOY ON EARTH
-## Tencent Pitch Document v0.5
+## Tencent Pitch Document v0.6
 
 **Format:** Premium episodic animated science-fiction adventure  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -178,6 +178,31 @@ Tencent should only approve series expansion when the proof demonstrates:
 
 **Unresolved production choice:** the exact balance between fully generated environments, practical or scanned source material, conventional 3D assets and compositing will be set after comparative motion tests.
 
+## Canon-safe decision framework
+The project should not conceal unresolved mythology behind polished language. Development will separate decisions into three explicit states so Tencent can review the series honestly.
+
+### Locked now
+- The Golden Record brings the expedition to Earth.
+- The boy is the last known human child, not yet confirmed as the final human alive.
+- He was deliberately hidden.
+- The expedition carries sealed orders connected to hidden technology on Earth.
+- A human settlement exists beyond Earth.
+- Activating the hidden system may expose the boy to an approaching force.
+- The crew ultimately chooses the boy over its original mission.
+
+### Provisional story logic for testing
+The cleanest current hypothesis is that the hidden technology is a communication or navigation system linked to humanity's departure, the boy was concealed because his existence or location could compromise surviving humans, and the sealed alien orders treat the system as an objective rather than a moral responsibility. This is a development hypothesis only. It is not locked canon.
+
+### Decisions that must be closed before final scripts
+1. **Disappearance:** departure, forced displacement, destruction or a combination.
+2. **Boy's concealment:** who hid him, why he could not leave and why he survived.
+3. **Hidden technology:** what it does, why Earth still contains it and why the expedition was ordered to retrieve it.
+4. **Approaching force:** what it wants, whether it caused humanity's disappearance and why it reacts now.
+5. **Off-world humans:** who sent the message, why they remained silent and what answering the new Record risks.
+
+### Approval test
+The final causal chain must be explainable in five sentences, generate emotional consequences for the boy and crew, support every reveal from Episodes 5–10 and avoid reducing the story to a conventional invasion plot. Any solution that does not improve the boy's choice between isolation and belonging should be rejected.
+
 ## Production considerations
 Lock hero characters before extended sequence generation. Build reusable location families. Stress-test water, foliage, cloth, skin, hands and eye-lines. Complete the mystery reveal ladder before script polish. Establish sound early. Base budget and schedule on a finished two-minute proof, including human continuity and finishing, not still-generation speed.
 
@@ -208,6 +233,8 @@ Using the finished proof, agree the repeatable asset strategy, human finishing r
 Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept. The sprint will lock character names and designs, disappearance mythology, alien culture, final visual bible, repeatable episode production model, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
+**v0.6:** Added a canon-safe decision framework separating locked facts, a clearly labelled provisional hypothesis, unresolved mythology decisions and an approval test for the final causal chain.
+
 **v0.5:** Added a repeatable episode production model covering reusable asset families, episode build sequence, scale gates and the production decision that remains unresolved after the proof.
 
 **v0.4:** Added a decision-gated Tencent development sprint defining the story, character, motion-proof and production approvals required before pilot or series commitment.
@@ -215,6 +242,6 @@ Approve a joint story-and-visual development sprint leading to a premium two-min
 **v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode into review-ready dramatic summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
-The disappearance mythology remains the least resolved area. It needs one elegant causal chain linking the boy's concealment, hidden technology, sealed orders, off-world human settlement and approaching force without collapsing into conventional invasion science fiction.
+The alien expedition's cultural identity is now the weakest remaining section. Its anatomy, clothing, movement, tools, ship materials, authority structure and relationship to the Golden Record need one coherent design grammar before character and motion approval.
 
 © 2026 Napkin Studio. All Rights Reserved.
