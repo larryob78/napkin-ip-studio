@@ -1,5 +1,5 @@
 # THE LAST BOY ON EARTH
-## Tencent Pitch Document v0.3
+## Tencent Pitch Document v0.4
 
 **Format:** Premium episodic animated science-fiction adventure  
 **Season:** 10 episodes × approximately 15 minutes  
@@ -151,10 +151,34 @@ Lock hero characters before extended sequence generation. Build reusable locatio
 ## Franchise potential
 Further seasons can explore new regions, signals, survivors, alien interests and the moral question of restoring or transforming human culture. Extensions include discovery shorts, music-led films, interactive archives, art books, games and character-led digital experiences.
 
+## Proposed Tencent development sprint
+The immediate objective is not to manufacture volume. It is to remove the highest-risk creative and production uncertainties before Tencent considers a pilot or series commitment.
+
+### Gate 1: Story truth
+Lock the boy's working identity, the emotional meaning of his concealment and a single causal reveal ladder connecting the hidden technology, sealed alien orders, off-world human settlement and approaching force. The answer must deepen the friendship story rather than turn the series into conventional invasion science fiction.
+
+### Gate 2: Character and world proof
+Approve one definitive boy design, one coherent alien design grammar and three reusable environment families. Confirm that the crew remain distinct in silhouette, movement, motive and relationship to humanity.
+
+### Gate 3: Two-minute cinematic proof
+Produce and finish a two-minute sequence that demonstrates arrival, first contact, emotional performance, reclaimed-Earth scale, the Golden Record motif and a serial mystery hook. Review against consistency, originality, clarity and emotional impact, not generation speed.
+
+### Gate 4: Production pathway
+Using the finished proof, agree the repeatable asset strategy, human finishing requirement, schedule range, cost assumptions, rights position and the production route for ten approximately 15-minute episodes.
+
+### Sprint outputs
+- Locked story reveal ladder and unresolved-choice register.
+- Updated character and world bible.
+- Approved visual-development pack.
+- Finished two-minute proof with sound.
+- Production assumptions, risk register and indicative series pathway.
+
 ## Next-step ask for Tencent
 Approve a joint story-and-visual development sprint leading to a premium two-minute proof of concept. The sprint will lock character names and designs, disappearance mythology, alien culture, final visual bible, production standard, budget assumptions, rights and ownership framework and Tencent's preferred route toward series production.
 
 ## Change record
+**v0.4:** Added a decision-gated Tencent development sprint defining the story, character, motion-proof and production approvals required before pilot or series commitment.
+
 **v0.3:** Added a matched fifteen-minute episode architecture and expanded every episode from shorthand beats into review-ready dramatic summaries while preserving the locked Season One map.
 
 ## Weakest remaining section
