@@ -2,9 +2,9 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.6 world-development build
-- **Overall readiness:** 88%
-- **Story structure:** strong
+- **Greenlight Book:** v0.65 midpoint-development build
+- **Overall readiness:** 90%
+- **Story structure:** strong through Episode 6
 - **Visual-development readiness:** strong foundation
 - **Highest unresolved risk:** final causal mythology connecting the hidden technology, the boy's concealment, the off-world humans and the approaching force
 
@@ -21,33 +21,31 @@
 - Canon-safe development decision sheet
 - Reusable Greenlight Image Director skill
 - Alien culture and design grammar v0.1
-- Full dramatic treatments for Episodes 1–3
+- Full dramatic treatments for Episodes 1–6
 - Reclaimed Earth world bible and four reusable location families
 
 ## Latest completed work
 
-### Reclaimed Earth World Bible v0.1
+### Episodes 4–6 Full Dramatic Treatments v0.1
 
-The Earth setting has been developed into a production-facing world system covering:
+The season midpoint has been expanded into production-facing dramatic treatments covering:
 
-- the governing visual and emotional principles of a living world without organised humanity
-- specific reclaimed-Dublin identity, materials, weather, ecology and sound
-- four reusable environment families: Vertical City, River City, Memory Interiors and Hidden Systems
-- practical movement and survival logic for the boy
-- a clear contrast between local human knowledge and alien technological advantage
-- object, animal, weather and sound rules for visual storytelling
-- ten priority full-bleed image briefs
-- an eight-page Greenlight Book allocation
-- continuity checks and explicit protection of unresolved canon
+- Episode 4, **The City That Grew Back**: the boy proves his environmental knowledge, the expedition leader breaks protocol to save him and the group discovers a repeating human transmission
+- Episode 5, **A Voice in the Dark**: the crew enters a protected archive, finds an ocean of ordinary human memory and receives a message addressed directly to the boy
+- Episode 6, **Home**: the crew discovers that the boy's survival was deliberately engineered and that alien mission authority possessed prior knowledge of the hidden site
+- sequence-level storytelling, opening and closing images, emotional turns, mystery progression and later-season consequences
+- a clear visual progression from epic reclaimed city to underground memory archive to intimate domestic grief
+- eight production-facing hero-image briefs
+- explicit protection of unresolved canon around the message speaker, the boy's carers, the hidden technology and the final disappearance mythology
 
-The new module avoids generic apocalypse shorthand and keeps the date, disappearance cause, boy's true home, hidden-system operators and survival mythology open for later approval.
+The treatments create deliberate emotional counterpoint: the boy's intimacy with the young scientist deepens just as trust in the expedition leader and alien authority begins to collapse.
 
-**Status:** ready for Greenlight Book adaptation, environment concept art and episode-location breakdowns.
+**Status:** ready for Greenlight Book adaptation, episode concept art and continuity review against Episodes 7–10.
 
 ## In progress
 
 - Expand the Series Development Proposal toward a coherent 50-page manuscript
-- Deepen Episodes 4–10 from summaries to treatments
+- Deepen Episodes 7–10 from summaries to treatments
 - Resolve the single causal mythology for Episodes 5–10
 - Lock the boy's identity and survival logic
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
@@ -55,15 +53,15 @@ The new module avoids generic apocalypse shorthand and keeps the date, disappear
 
 ## Next highest-priority tasks
 
-1. Expand Episodes 4–6 into full dramatic treatments.
-2. Create a causal mythology options paper, score the strongest routes and recommend one for approval.
+1. Create a causal mythology options paper, score the strongest routes and recommend one for approval.
+2. Expand Episodes 7–10 into full dramatic treatments using the recommended causal structure.
 3. Expand the boy's biography without locking unsupported facts.
 4. Create the master 50-page proposal map and manuscript-completion count.
 5. Write image-by-image briefs for the first twelve Greenlight Book spreads.
 
 ## Manuscript progress
 
-- **Episode treatments:** 3 of 10 complete
+- **Episode treatments:** 6 of 10 complete
 - **World-bible modules:** 2 of 4 complete
 - **Character foundation:** core ensemble complete, detailed biographies pending
 - **Visual system:** art/shot bible, alien grammar and Earth environment system complete; image-by-image briefs pending
@@ -86,6 +84,7 @@ A section is only considered complete when it:
 - **v0.4:** culture and visual-development framework
 - **v0.5:** opening episode treatments complete
 - **v0.6:** world-development system and opening treatments complete
+- **v0.65:** midpoint episode treatments complete
 - **v0.7:** all episode treatments and causal mythology recommendation complete
 - **v0.8:** 50-page manuscript and image briefs aligned
 - **v0.9:** layout and continuity review
