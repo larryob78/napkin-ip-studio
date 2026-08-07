@@ -1,12 +1,12 @@
 # The Last Boy on Earth — Unified 50-Page Image Production Sequence
 
-**Status:** v0.1 production-ready visual brief index
+**Status:** v0.2 production-ready visual brief index
 **Purpose:** one numbered source for generating, critiquing, locking and exporting every image in the 50-page Greenlight Book.
 **Canon rule:** visual development may suggest atmosphere and behaviour but must not silently lock unresolved biography, disappearance mythology, names, exact ages or pursuer identity.
 
 ## Global visual rules
 
-Premium live-action credibility. Reclaimed Earth is beautiful and inhabited by ecology, never generic ruin-porn. Camera stays emotionally near child height. Natural lens behaviour, real weather, tactile surfaces and restrained production design. Alien technology is physical, quiet and culturally specific, never generic floating holograms. Gold is reserved for memory, invitation and moral choice. Human absence is expressed through ordinary interrupted detail, not horror tableaux.
+Premium animated feature-film credibility, using live-action photographic discipline as a cinematography and rendering benchmark. Reclaimed Earth is beautiful and inhabited by ecology, never generic ruin-porn. Camera stays emotionally near child height. Natural lens behaviour, real weather, tactile surfaces and restrained production design. Alien technology is physical, quiet and culturally specific, never generic floating holograms. Gold is reserved for memory, invitation and moral choice. Human absence is expressed through ordinary interrupted detail, not horror tableaux.
 
 **Master output:** 16:9 landscape, full bleed, cinematic still, copy-safe negative space where required.
 **Continuity:** once approved, character face, anatomy, costume, scale, ship materials and signature objects become locked references for subsequent images.
@@ -51,7 +51,7 @@ Premium live-action credibility. Reclaimed Earth is beautiful and inhabited by e
 36. **Episode 10 Hero** — Distributed constellation of voices and one living answer. Priority A.
 37. **Character Arc Portrait Sequence** — Boy, scientist, leader and crew shown before/after through posture and distance, not text-heavy diagram.
 38. **Mystery Discipline Image** — Partially illuminated archive layers, enough visible to promise answers while deeper structure remains obscured.
-39. **Definitive Series Still** — Most emotionally complete friendship image, live-action credibility benchmark.
+39. **Definitive Series Still** — Most emotionally complete friendship image, premium feature-animation photographic-credibility benchmark.
 40. **Camera Language Plate** — Child-height wide, patient medium, intimate 85mm, motivated movement frame.
 41. **Colour Script** — Ten-frame progression: wet greens/slate → human warmth → mineral alien tones → memory gold.
 42. **Alien Design Grammar Plate** — Matched portrait, silhouette, hand/tool and textile/material studies.
