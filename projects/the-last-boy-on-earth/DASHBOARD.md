@@ -3,34 +3,25 @@
 ## Current status
 
 - **Greenlight Book:** v0.95 consolidated master manuscript
-- **Overall development readiness:** 98%
-- **Page-level source readiness:** 98%
+- **Overall development readiness:** 99%
+- **Page-level source readiness:** 99%
 - **Story structure:** full dramatic treatments cover all ten episodes
 - **Proposal assembly:** all 50 pages are represented in canonical `GREENLIGHT_BOOK.md`
 - **Continuity:** first formal canon/continuity review complete in `CONTINUITY_REVIEW.md`
 - **Character development:** central boy dossier and detailed alien crew dossiers complete at development-framework level
+- **Two-minute proof:** timed 120-second script and 18-shot production list complete in `production/TWO_MINUTE_PROOF_SCRIPT.md`
 - **Visual production:** all 50 proposal pages have one canonical numbered image assignment; first twelve continuity-setting images prioritised
 - **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
-## New main file
+## Canonical files
 
 `GREENLIGHT_BOOK.md` is the first file to open for editorial review, layout, Word/PDF export and PowerPoint derivation.
 
-It consolidates:
+`CANON.md` remains the locked story authority.
 
-- opening premise and executive story pages
-- reclaimed Earth and Dublin world design
-- Memory Ark recommendation with provisional labels
-- boy dossier and survival logic
-- alien crew and relationship engine
-- full Season One structure and all ten episode pages
-- visual thesis, camera, light, alien design, ship and interface rules
-- full-bleed image production system
-- two-minute proof concept
-- AI-enabled production approach
-- franchise potential
-- Tencent development ask
-- open-decisions register and continuity guardrails
+`CONTINUITY_REVIEW.md` records conflicts and continuity resolutions.
+
+`production/TWO_MINUTE_PROOF_SCRIPT.md` is the current production-development source for the Tencent proof sequence.
 
 ## Completed foundations
 
@@ -56,28 +47,36 @@ It consolidates:
 - Consolidated 50-page `GREENLIGHT_BOOK.md`
 - Canon and continuity review v0.1
 - Visual-production language aligned to the locked animated format while preserving photographic realism as a craft benchmark
+- Production-ready alien crew dossiers
+- Timed two-minute cinematic proof script and numbered shot list
 
 ## Latest completed work
 
-### Alien Crew Dossiers v0.1
+### Two-Minute Cinematic Proof v0.1
 
-`characters/ALIEN_CREW_DOSSIERS.md` now gives the expedition a production-ready ensemble framework without locking unresolved names, anatomy or institutional mythology.
+`production/TWO_MINUTE_PROOF_SCRIPT.md` converts Greenlight Book Page 47 into a practical 120-second production sequence.
 
-The dossier includes:
+The proof now includes:
 
-- expedition leader: procedural ethics → accountable responsibility
-- young scientist: curiosity → consent and reciprocal friendship
-- security officer: containment → protection through trust
-- ship intelligence: perfect record → answerable living memory
-- individual fears, gifts, flaws and behavioural language
-- relationship arcs with the boy and one another
-- episode-by-episode Season One progression
-- dialogue distinction and performance notes
-- proposal-ready short character copy
-- matched portrait and continuity image set
-- explicit open-decision register and character quality gate
+- a continuous dramatic structure moving **awe → unease → humour → connection → question**
+- Golden Record opening and orbital discovery
+- atmospheric arrival over reclaimed Dublin
+- child-height first contact inside a flooded transit concourse
+- comic misunderstanding around an ordinary human umbrella
+- Golden Record music as the emotional bridge
+- one explicit act of trust between the boy and young scientist
+- a final local signal that turns the encounter into a larger mystery
+- 18 numbered shots with exact durations totalling 120 seconds
+- lens and framing language for each shot
+- production-proof objective per shot
+- dialogue restraint and international-legibility strategy
+- sound-design spine
+- 14-item continuity pack required before motion generation
+- practical tests for character consistency, water/rain/cloth, camera, sound and editing
+- approval gates preventing provisional mythology from leaking into the proof
+- direct key-frame reuse into the Greenlight Book and Priority A visual sequence
 
-**Status:** Character foundation is now strong enough to support Pages 18–22, visual continuity testing and the two-minute proof script without inventing final names or anatomy.
+**Status:** The proof is now scriptable/storyboardable without locking the boy's final identity, disappearance mythology, Memory Ark, off-world humans or final alien names.
 
 ## Continuity review result
 
@@ -93,18 +92,19 @@ Key findings and resolutions:
 - Current episode titles remain working titles.
 - Broad time scale remains **centuries after humanity disappears**; avoid accidental “decades later” claims in final copy or prompts.
 - Off-world human communities remain current recommended Season One architecture pending final founder lock.
-- The two-minute proof should prove premise, relationship, world and tone without depending on unresolved mythology.
+- The two-minute proof proves premise, relationship, world and tone without depending on unresolved mythology.
 
 ## In progress
 
 - Editorially trim Pages 07–22 and 39–50 in layout
 - Lock the boy’s name, exact identity details and signature personal object
 - Convert alien grammar and crew dossiers into matched portrait, silhouette, tool and ship tests
+- Build the 14-item Proof Continuity Pack
 - Generate and approve Priority A images
-- Draft the two-minute proof script and numbered shot list
+- Storyboard the 18 proof shots
 - Export master manuscript to Word/PDF/PowerPoint
 
-## Manuscript progress
+## Manuscript and production progress
 
 - **Episode treatments:** 10 of 10 complete
 - **50-page master manuscript:** 50 of 50 pages represented
@@ -112,14 +112,15 @@ Key findings and resolutions:
 - **Character foundation:** central boy dossier complete; alien crew dossiers complete at development-framework level
 - **Visual system:** 50 of 50 page image assignments complete; actual generation/approval pending
 - **Continuity review:** v0.1 complete
-- **Page-level source readiness:** 98%
+- **Two-minute proof:** script 1 of 1 complete; shot list 18 of 18 complete; storyboard 0 of 18
+- **Page-level source readiness:** 99%
 
 ## Next highest-priority tasks
 
-1. Draft the two-minute proof script and numbered shot list within the established continuity boundaries.
-2. Convert alien crew dossiers into matched visual test briefs and lockable continuity plates.
-3. Generate Priority A image sequence and lock continuity.
-4. Build Word and PDF first-layout versions from the main manuscript.
+1. Build the Proof Continuity Pack and matched visual-test briefs for the 14 required references.
+2. Convert the 18 proof shots into storyboard-ready keyframe prompts tied to approved continuity assets.
+3. Generate and approve the Priority A image sequence, reusing frames required by the proof.
+4. Build Word and PDF first-layout versions from the canonical manuscript.
 5. Derive the concise Tencent PowerPoint from the same source.
 
 ## Repository principle
