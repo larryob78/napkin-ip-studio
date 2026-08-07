@@ -1,0 +1,41 @@
+name: LBOE Greenlight Book Exports
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/the-last-boy-on-earth/GREENLIGHT_BOOK.md'
+      - 'projects/the-last-boy-on-earth/export/**'
+      - '.github/workflows/lboe-export.yml'
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install export dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Build DOCX, PDF, PPTX and HTML
+        run: bash projects/the-last-boy-on-earth/export/build_exports.sh
+
+      - name: Verify expected outputs
+        run: |
+          test -s projects/the-last-boy-on-earth/export/out/The_Last_Boy_on_Earth_Greenlight_Book.docx
+          test -s projects/the-last-boy-on-earth/export/out/The_Last_Boy_on_Earth_Greenlight_Book.pdf
+          test -s projects/the-last-boy-on-earth/export/out/The_Last_Boy_on_Earth_Greenlight_Book.pptx
+          test -s projects/the-last-boy-on-earth/export/out/The_Last_Boy_on_Earth_Greenlight_Book.html
+
+      - name: Upload Greenlight Book exports
+        uses: actions/upload-artifact@v4
+        with:
+          name: The_Last_Boy_on_Earth_Greenlight_Book
+          path: projects/the-last-boy-on-earth/export/out/
+          if-no-files-found: error
