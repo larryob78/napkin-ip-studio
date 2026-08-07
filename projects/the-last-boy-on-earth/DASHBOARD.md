@@ -11,6 +11,7 @@
 - **Character development:** central boy dossier and detailed alien crew dossiers complete at development-framework level
 - **Two-minute proof:** timed 120-second script and 18-shot production list complete in `production/TWO_MINUTE_PROOF_SCRIPT.md`
 - **Proof continuity:** 14-reference production continuity specification complete in `production/PROOF_CONTINUITY_PACK.md`
+- **Proof storyboard:** all 18 shots now have storyboard/keyframe briefs, prompts, reference dependencies, rejection rules and production gates in `production/PROOF_STORYBOARD_KEYFRAME_PACK.md`
 - **Visual production:** all 50 proposal pages have one canonical numbered image assignment; first twelve continuity-setting images prioritised
 - **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
@@ -25,6 +26,8 @@
 `production/TWO_MINUTE_PROOF_SCRIPT.md` is the current production-development source for the Tencent proof sequence.
 
 `production/PROOF_CONTINUITY_PACK.md` is the production visual-reference authority for the 14 assets required before final proof generation.
+
+`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` is the shot-level storyboard and keyframe-generation authority for the 18 proof shots.
 
 ## Completed foundations
 
@@ -53,14 +56,45 @@
 - Production-ready alien crew dossiers
 - Timed two-minute cinematic proof script and numbered shot list
 - Production-ready 14-reference Proof Continuity Pack with dependency order, approval states and shot-reference matrix
+- Production-ready 18-shot Storyboard + Keyframe Prompt Pack with reference dependencies, edit continuity, emotional continuity and motion-handoff rules
 
 ## Latest completed work
 
-### Proof Continuity Pack v0.1
+### Storyboard + Keyframe Prompt Pack v0.1
+
+`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` converts the 120-second script into a disciplined shot-level visual production plan.
+
+All 18 shots now have:
+
+- story job
+- exact duration
+- frame/lens intention
+- required REF dependencies
+- release gate
+- composition and screen-direction logic
+- production-ready keyframe prompt
+- explicit rejection conditions
+- continuity and canon protection
+
+The pack also adds:
+
+- one global negative/rejection language for all frames
+- fixed use of REF01–REF14 rather than independent image invention
+- screen-direction and first-contact-axis rules
+- concourse floor-plan continuity from Shots 05–18
+- an emotional-distance map across awe → unease → humour → connection → question
+- a staged storyboard production order designed to prevent downstream rework
+- a shot approval checklist
+- a motion handoff template so approved continuity is animated rather than redesigned
+- direct reuse rules linking approved proof frames back into Greenlight Book pages
+
+**Status:** storyboard specifications are complete 18/18. Final storyboard generation remains blocked until the relevant visual references are approved.
+
+## Proof Continuity Pack v0.1
 
 `production/PROOF_CONTINUITY_PACK.md` converts the proof script's continuity checklist into a usable production control system.
 
-The pack now defines all fourteen required references:
+The pack defines all fourteen required references:
 
 1. Boy front portrait
 2. Boy full-body and repaired wardrobe
@@ -77,20 +111,7 @@ The pack now defines all fourteen required references:
 13. Hand-contact scale sheet
 14. Eye-line and height chart
 
-For each reference the specification now records production purpose, canon status, shots served, required views, continuity constraints, rejection triggers and approval tests.
-
-The pack also adds:
-
-- explicit WIP / REVIEW / APPROVED / REJECTED states
-- a reusable asset naming convention
-- identity → physical relationship → world/object dependency gates
-- a complete 18-shot-to-reference matrix
-- a continuity ledger showing blocked dependencies
-- anti-cliché and canon review gates
-- a storyboard release gate
-- direct reuse rules back into the Greenlight Book
-
-**Status:** the proof can now enter disciplined visual-development and storyboard production without allowing each shot to reinvent characters, props or scale.
+**Status:** the proof can enter disciplined visual-development production without allowing each shot to reinvent characters, props or scale.
 
 ## Two-Minute Cinematic Proof
 
@@ -115,8 +136,6 @@ The proof includes:
 - approval gates preventing provisional mythology from leaking into the proof
 - direct key-frame reuse into the Greenlight Book and Priority A visual sequence
 
-**Status:** The proof is scriptable/storyboardable without locking the boy's final identity, disappearance mythology, Memory Ark, off-world humans or final alien names.
-
 ## Continuity review result
 
 `CONTINUITY_REVIEW.md` records the source hierarchy and protects unresolved choices.
@@ -138,7 +157,7 @@ Key findings and resolutions:
 - Editorially trim Pages 07–22 and 39–50 in layout
 - Lock the boy’s name, exact identity details and signature personal object
 - Generate and approve REF 01–14 from `production/PROOF_CONTINUITY_PACK.md`
-- Convert the 18 proof shots into storyboard-ready keyframe prompts tied to reference IDs
+- Generate final storyboard/keyframes from `production/PROOF_STORYBOARD_KEYFRAME_PACK.md`
 - Generate and approve Priority A images
 - Export master manuscript to Word/PDF/PowerPoint
 
@@ -150,14 +169,14 @@ Key findings and resolutions:
 - **Character foundation:** central boy dossier complete; alien crew dossiers complete at development-framework level
 - **Visual system:** 50 of 50 page image assignments complete; actual generation/approval pending
 - **Continuity review:** v0.1 complete
-- **Two-minute proof:** script 1 of 1 complete; shot list 18 of 18 complete; continuity reference specifications 14 of 14 complete; storyboard 0 of 18
+- **Two-minute proof:** script 1 of 1 complete; shot list 18 of 18 complete; continuity reference specifications 14 of 14 complete; storyboard/keyframe briefs 18 of 18 complete; approved storyboard frames 0 of 18 pending reference generation
 - **Page-level source readiness:** 99%
 
 ## Next highest-priority tasks
 
-1. Convert all 18 proof shots into a storyboard-ready keyframe and prompt pack that explicitly depends on REF 01–14.
-2. Generate and approve the identity gate first: REF 01 Boy portrait, REF 02 Boy full body, REF 03 Scientist portrait, REF 04 Scientist full body/recorder and REF 05 Security silhouette.
-3. Build scale, hand-contact and eye-line references from the approved identity assets.
+1. Generate and approve the identity gate first: REF 01 Boy portrait, REF 02 Boy full body, REF 03 Scientist portrait, REF 04 Scientist full body/recorder and REF 05 Security silhouette.
+2. Build scale, hand-contact and eye-line references REF06, REF13 and REF14 from the approved identity assets.
+3. Generate the 18 storyboard frames in dependency-gate order, reusing the approved references exactly.
 4. Generate the Priority A image sequence, reusing proof frames wherever possible.
 5. Build Word and PDF first-layout versions from the canonical manuscript.
 6. Derive the concise Tencent PowerPoint from the same source.
