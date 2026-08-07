@@ -6,14 +6,14 @@
 - **Overall development readiness:** 98%
 - **Page-level source readiness:** 97%
 - **Story structure:** full dramatic treatments cover all ten episodes
-- **Proposal assembly:** all 50 pages are now represented in one canonical `GREENLIGHT_BOOK.md`
-- **Final-copy source:** Pages 01–06 and 23–38 remain backed by dedicated assembly-ready editorial files; Pages 07–22 and 39–50 are consolidated into first-layout prose in the master manuscript
+- **Proposal assembly:** all 50 pages are represented in canonical `GREENLIGHT_BOOK.md`
+- **Continuity:** first formal canon/continuity review complete in `CONTINUITY_REVIEW.md`
 - **Visual production:** all 50 proposal pages have one canonical numbered image assignment; first twelve continuity-setting images prioritised
-- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology and remaining identity decisions for the boy
+- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
 ## New main file
 
-`GREENLIGHT_BOOK.md` is now the first file to open for editorial review, layout, Word/PDF export and PowerPoint derivation.
+`GREENLIGHT_BOOK.md` is the first file to open for editorial review, layout, Word/PDF export and PowerPoint derivation.
 
 It consolidates:
 
@@ -52,10 +52,27 @@ It consolidates:
 - Final Season One editorial copy for Pages 23–38
 - Unified 50-page image production sequence, naming convention and approval gates
 - Consolidated 50-page `GREENLIGHT_BOOK.md`
+- Canon and continuity review v0.1
+- Visual-production language aligned to the locked animated format while preserving photographic realism as a craft benchmark
+
+## Continuity review result
+
+`CONTINUITY_REVIEW.md` now records the source hierarchy and protects unresolved choices.
+
+Key findings and resolutions:
+
+- `CANON.md` remains unchanged and authoritative.
+- The project remains **premium episodic animation**. Earlier “live-action credibility” wording is now explicitly treated as a cinematography/rendering benchmark rather than a format change.
+- The boy is the **last known human child on Earth**, not confirmed as the final human anywhere.
+- His exact age, name, carers, biography and isolation duration remain open.
+- The Memory Ark remains the recommended mythology framework, not locked canon.
+- Current episode titles remain working titles.
+- Broad time scale remains **centuries after humanity disappears**; avoid accidental “decades later” claims in final copy or prompts.
+- Off-world human communities remain current recommended Season One architecture pending final founder lock.
+- The two-minute proof should prove premise, relationship, world and tone without depending on unresolved mythology.
 
 ## In progress
 
-- Run a line-by-line continuity review against locked canon
 - Editorially trim Pages 07–22 and 39–50 in layout
 - Lock the boy’s name, exact identity details and signature personal object
 - Develop detailed role dossiers for the alien crew
@@ -71,18 +88,19 @@ It consolidates:
 - **World-bible modules:** substantial draft complete
 - **Character foundation:** central boy dossier complete; detailed alien crew dossiers pending
 - **Visual system:** 50 of 50 page image assignments complete; actual generation/approval pending
+- **Continuity review:** v0.1 complete
 - **Page-level source readiness:** 97%
 
 ## Next highest-priority tasks
 
-1. Continuity and editorial pass on `GREENLIGHT_BOOK.md`.
-2. Founder lock on Memory Ark status and boy identity decisions.
+1. Develop concise production-ready dossiers for the alien crew, without locking final names or anatomy.
+2. Draft the two-minute proof script and numbered shot list within the continuity boundaries now established.
 3. Generate Priority A image sequence and lock continuity.
 4. Build Word and PDF first-layout versions from the main manuscript.
 5. Derive the concise Tencent PowerPoint from the same source.
 
 ## Repository principle
 
-`GREENLIGHT_BOOK.md` is the canonical editorial manuscript. Supporting files preserve deeper development detail, but final external outputs should derive from the approved master manuscript so the book, Word document, PDF, PowerPoint and website remain aligned.
+`GREENLIGHT_BOOK.md` is the canonical editorial manuscript. `CANON.md` remains the locked story authority. `CONTINUITY_REVIEW.md` records conflicts and resolutions. Supporting files preserve deeper development detail, but final external outputs should derive from the approved master manuscript so the book, Word document, PDF, PowerPoint and website remain aligned.
 
 © 2026 Napkin Studio. All Rights Reserved.
