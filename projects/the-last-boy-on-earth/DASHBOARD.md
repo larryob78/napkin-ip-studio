@@ -2,11 +2,11 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.65 midpoint-development build
-- **Overall readiness:** 90%
-- **Story structure:** strong through Episode 6
+- **Greenlight Book:** v0.68 causal-mythology build
+- **Overall readiness:** 92%
+- **Story structure:** strong through Episode 6, with final-act causal framework recommended
 - **Visual-development readiness:** strong foundation
-- **Highest unresolved risk:** final causal mythology connecting the hidden technology, the boy's concealment, the off-world humans and the approaching force
+- **Highest unresolved risk:** founder approval and detailed execution of the recommended Memory Ark mythology
 
 ## Completed foundations
 
@@ -23,46 +23,57 @@
 - Alien culture and design grammar v0.1
 - Full dramatic treatments for Episodes 1–6
 - Reclaimed Earth world bible and four reusable location families
+- Four causal mythology routes scored against ten story, production and pitch criteria
+- Recommended Memory Ark framework connecting the boy, hidden technology, off-world humans, sealed orders and approaching force
 
 ## Latest completed work
 
-### Episodes 4–6 Full Dramatic Treatments v0.1
+### Causal Mythology Options and Recommendation v0.1
 
-The season midpoint has been expanded into production-facing dramatic treatments covering:
+The project's largest unresolved story risk has been converted into a controlled decision paper.
 
-- Episode 4, **The City That Grew Back**: the boy proves his environmental knowledge, the expedition leader breaks protocol to save him and the group discovers a repeating human transmission
-- Episode 5, **A Voice in the Dark**: the crew enters a protected archive, finds an ocean of ordinary human memory and receives a message addressed directly to the boy
-- Episode 6, **Home**: the crew discovers that the boy's survival was deliberately engineered and that alien mission authority possessed prior knowledge of the hidden site
-- sequence-level storytelling, opening and closing images, emotional turns, mystery progression and later-season consequences
-- a clear visual progression from epic reclaimed city to underground memory archive to intimate domestic grief
-- eight production-facing hero-image briefs
-- explicit protection of unresolved canon around the message speaker, the boy's carers, the hidden technology and the final disappearance mythology
+Four routes were developed and scored:
 
-The treatments create deliberate emotional counterpoint: the boy's intimacy with the young scientist deepens just as trust in the expedition leader and alien authority begins to collapse.
+1. **The Memory Ark — 92/100**
+2. **The Quiet Gate — 87/100**
+3. **The Living Seed — 83/100**
+4. **The Witness Protocol — 80/100**
 
-**Status:** ready for Greenlight Book adaptation, episode concept art and continuity review against Episodes 7–10.
+The document recommends **The Memory Ark** for development because it unifies the plot mechanism with the series' existing emotional subject: who gets to decide what humanity was and what deserves to survive.
+
+Under the recommended route:
+
+- displaced human settlements carry incomplete fragments of a distributed cultural-memory system
+- the complete authentication node remains hidden on Earth
+- the boy matters as a living witness and moral interpreter, not as a genetic chosen one
+- alien authority sent the expedition under sealed retrieval orders
+- an approaching power controls displaced civilisations by capturing and rewriting their histories
+- the new Golden Record becomes the crew and boy's answer: human memory should be shared and answered, not hidden or owned
+
+The paper explicitly prevents the system from becoming a resurrection machine, magical intelligence, superweapon or arbitrary access-key story. It also identifies the six remaining detail decisions required before script lock.
+
+**Status:** ready for founder approval and direct use in the Episodes 7–10 dramatic treatments.
 
 ## In progress
 
 - Expand the Series Development Proposal toward a coherent 50-page manuscript
-- Deepen Episodes 7–10 from summaries to treatments
-- Resolve the single causal mythology for Episodes 5–10
+- Deepen Episodes 7–10 from summaries to treatments using the recommended causal structure
 - Lock the boy's identity and survival logic
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
 - Prepare the two-minute proof script and numbered shot list
 
 ## Next highest-priority tasks
 
-1. Create a causal mythology options paper, score the strongest routes and recommend one for approval.
-2. Expand Episodes 7–10 into full dramatic treatments using the recommended causal structure.
-3. Expand the boy's biography without locking unsupported facts.
-4. Create the master 50-page proposal map and manuscript-completion count.
-5. Write image-by-image briefs for the first twelve Greenlight Book spreads.
+1. Expand Episodes 7–10 into full dramatic treatments using the Memory Ark framework while keeping names and technical details provisional.
+2. Expand the boy's biography without locking unsupported facts.
+3. Create the master 50-page proposal map and manuscript-completion count.
+4. Write image-by-image briefs for the first twelve Greenlight Book spreads.
+5. Run a continuity review across the season map and all ten episode treatments.
 
 ## Manuscript progress
 
 - **Episode treatments:** 6 of 10 complete
-- **World-bible modules:** 2 of 4 complete
+- **World-bible modules:** 3 of 4 complete, including the causal mythology system
 - **Character foundation:** core ensemble complete, detailed biographies pending
 - **Visual system:** art/shot bible, alien grammar and Earth environment system complete; image-by-image briefs pending
 - **Proposal assembly:** source sections exist, master 50-page sequence not yet assembled
@@ -85,7 +96,8 @@ A section is only considered complete when it:
 - **v0.5:** opening episode treatments complete
 - **v0.6:** world-development system and opening treatments complete
 - **v0.65:** midpoint episode treatments complete
-- **v0.7:** all episode treatments and causal mythology recommendation complete
+- **v0.68:** causal mythology options and recommendation complete
+- **v0.7:** all episode treatments complete
 - **v0.8:** 50-page manuscript and image briefs aligned
 - **v0.9:** layout and continuity review
 - **v1.0:** Tencent submission package
