@@ -31,9 +31,10 @@ pandoc "$SOURCE" "${COMMON[@]}" \
   --toc \
   --output "$OUT/The_Last_Boy_on_Earth_Greenlight_Book.docx"
 
-# Website/preview: standalone HTML with embedded CSS.
+# Website/preview: one portable standalone HTML file with CSS embedded.
 pandoc "$SOURCE" "${COMMON[@]}" \
   --standalone \
+  --self-contained \
   --toc \
   --css "$PROJECT/export/greenlight.css" \
   --output "$OUT/The_Last_Boy_on_Earth_Greenlight_Book.html"
