@@ -9,180 +9,122 @@
 - **Proposal assembly:** all 50 pages are represented in canonical `GREENLIGHT_BOOK.md`
 - **Continuity:** first formal canon/continuity review complete in `CONTINUITY_REVIEW.md`
 - **Character development:** central boy dossier and detailed alien crew dossiers complete at development-framework level
-- **Two-minute proof:** timed 120-second script and 18-shot production list complete in `production/TWO_MINUTE_PROOF_SCRIPT.md`
-- **Proof continuity:** 14-reference production continuity specification complete in `production/PROOF_CONTINUITY_PACK.md`
-- **Proof storyboard:** all 18 shots now have storyboard/keyframe briefs, prompts, reference dependencies, rejection rules and production gates in `production/PROOF_STORYBOARD_KEYFRAME_PACK.md`
-- **Visual production:** all 50 proposal pages have one canonical numbered image assignment; first twelve continuity-setting images prioritised
-- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
+- **Two-minute proof:** timed 120-second script and 18-shot production list complete
+- **Proof continuity:** 14-reference production continuity specification complete
+- **Proof storyboard:** storyboard/keyframe briefs complete for all 18 shots
+- **Identity gate:** executable REF01–REF05 production and approval pack complete in `production/IDENTITY_GATE_REF01_05.md`
+- **Visual production:** all 50 proposal pages have canonical numbered image assignments; actual approved identity references remain the current production blocker
+- **Highest unresolved story risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
 ## Canonical files
 
-`GREENLIGHT_BOOK.md` is the first file to open for editorial review, layout, Word/PDF export and PowerPoint derivation.
-
-`CANON.md` remains the locked story authority.
-
-`CONTINUITY_REVIEW.md` records conflicts and continuity resolutions.
-
-`production/TWO_MINUTE_PROOF_SCRIPT.md` is the current production-development source for the Tencent proof sequence.
-
-`production/PROOF_CONTINUITY_PACK.md` is the production visual-reference authority for the 14 assets required before final proof generation.
-
-`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` is the shot-level storyboard and keyframe-generation authority for the 18 proof shots.
+`GREENLIGHT_BOOK.md` — canonical editorial manuscript and first source for external outputs.  
+`CANON.md` — locked story authority.  
+`CONTINUITY_REVIEW.md` — continuity findings and resolutions.  
+`production/TWO_MINUTE_PROOF_SCRIPT.md` — current 120-second proof source.  
+`production/PROOF_CONTINUITY_PACK.md` — authority for REF01–REF14.  
+`production/IDENTITY_GATE_REF01_05.md` — executable production and approval authority for the first five identity references.  
+`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` — shot-level authority for all 18 storyboard/keyframe briefs.
 
 ## Completed foundations
 
-- Core premise and logline
-- Tencent pitch document v0.7
+- Core premise, logline and Tencent pitch document
 - Locked canon and guardrails
-- Ten-episode Season One map
+- Ten-episode Season One map and full dramatic treatments
 - Fifteen-minute episode architecture
-- Core ensemble framework
-- Detailed canon-safe character dossier and survival logic for the boy
-- Detailed canon-safe alien crew dossiers for leader, young scientist, security officer and ship intelligence
+- Reclaimed Earth world bible and reusable location families
+- Central boy dossier and survival logic
+- Alien culture/design grammar
+- Detailed alien crew dossiers
 - Production art and shot bible
-- Canon-safe development decision sheet
-- Reusable Greenlight Image Director skill
-- Alien culture and design grammar v0.1
-- Full dramatic treatments for Episodes 1–10
-- Reclaimed Earth world bible and four reusable location families
-- Recommended Memory Ark framework
+- Recommended Memory Ark framework, kept provisional
 - Master 50-page Series Development Proposal map
-- Final editorial copy and full-bleed assignments for Pages 01–06
-- Final Season One editorial copy for Pages 23–38
-- Unified 50-page image production sequence, naming convention and approval gates
 - Consolidated 50-page `GREENLIGHT_BOOK.md`
 - Canon and continuity review v0.1
-- Visual-production language aligned to the locked animated format while preserving photographic realism as a craft benchmark
-- Production-ready alien crew dossiers
-- Timed two-minute cinematic proof script and numbered shot list
-- Production-ready 14-reference Proof Continuity Pack with dependency order, approval states and shot-reference matrix
-- Production-ready 18-shot Storyboard + Keyframe Prompt Pack with reference dependencies, edit continuity, emotional continuity and motion-handoff rules
+- Unified 50-page image production sequence
+- Timed two-minute proof script and 18-shot list
+- 14-reference Proof Continuity Pack
+- 18-shot Storyboard + Keyframe Prompt Pack
+- REF01–REF05 Identity Gate production pack, controlled candidate method and approval scorecard
 
 ## Latest completed work
 
-### Storyboard + Keyframe Prompt Pack v0.1
+### Identity Gate — REF01–REF05 Production Pack v0.1
 
-`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` converts the 120-second script into a disciplined shot-level visual production plan.
+`production/IDENTITY_GATE_REF01_05.md` converts the project's biggest practical visual blocker into an executable production gate.
 
-All 18 shots now have:
+It now defines:
 
-- story job
-- exact duration
-- frame/lens intention
-- required REF dependencies
-- release gate
-- composition and screen-direction logic
-- production-ready keyframe prompt
-- explicit rejection conditions
-- continuity and canon protection
+- the exact approval order: faces → bodies/tools → security contrast character
+- controlled 8-candidate contact-sheet exploration rather than disconnected hero-image generation
+- convergence and stress-test stages before any reference can be marked APPROVED
+- production-ready master prompts for REF01 Boy Portrait, REF02 Boy Full Body, REF03 Scientist Portrait, REF04 Scientist Full Body + Recorder and REF05 Security Officer + Protective Tool
+- reference-specific rejection language
+- performance stress tests for the boy and scientist
+- wardrobe, anatomy, recorder and protective-tool continuity freezes
+- a shared 40-point scorecard covering canon safety, emotional readability, continuity robustness, originality, physical credibility, silhouette, repeatability and world/culture fit
+- an approval rule requiring no score below 4/5 and a target of 34/40 or higher
+- a cross-reference ensemble stress test before the gate can close
+- reproducibility metadata requirements for every approved image
+- precise handoff from approved identity assets into REF06, REF13, REF14, storyboard frames, Priority A imagery and the motion proof
 
-The pack also adds:
+**Status:** the design/approval process for REF01–05 is production-ready. Actual image candidates and approvals are not yet present in the repository.
 
-- one global negative/rejection language for all frames
-- fixed use of REF01–REF14 rather than independent image invention
-- screen-direction and first-contact-axis rules
-- concourse floor-plan continuity from Shots 05–18
-- an emotional-distance map across awe → unease → humour → connection → question
-- a staged storyboard production order designed to prevent downstream rework
-- a shot approval checklist
-- a motion handoff template so approved continuity is animated rather than redesigned
-- direct reuse rules linking approved proof frames back into Greenlight Book pages
+## Continuity position
 
-**Status:** storyboard specifications are complete 18/18. Final storyboard generation remains blocked until the relevant visual references are approved.
+The following remain protected and must not be silently fixed by visual generation:
 
-## Proof Continuity Pack v0.1
+- the boy's final name, exact age, ethnicity, carers and full biography
+- exact duration of his isolation
+- final signature personal object
+- final alien names and final species anatomy until visual approval
+- the Memory Ark as final mythology
+- off-world human communities as final canon
+- exact cause of humanity's disappearance
+- identity of the approaching force
 
-`production/PROOF_CONTINUITY_PACK.md` converts the proof script's continuity checklist into a usable production control system.
+The project remains **premium episodic animation with photographic credibility**. Photoreal craft language is a rendering/cinematography benchmark, not a format change.
 
-The pack defines all fourteen required references:
+## Production progress
 
-1. Boy front portrait
-2. Boy full-body and repaired wardrobe
-3. Young scientist front / three-quarter portrait
-4. Scientist full-body silhouette and field recorder
-5. Security officer silhouette and protective tool
-6. Crew group scale plate
-7. Ship exterior atmospheric configuration
-8. Flooded transit concourse master environment
-9. Golden Record material / scale reference
-10. Umbrella prop reference
-11. Alien memory token reference
-12. Human playback-device provisional prop reference
-13. Hand-contact scale sheet
-14. Eye-line and height chart
-
-**Status:** the proof can enter disciplined visual-development production without allowing each shot to reinvent characters, props or scale.
-
-## Two-Minute Cinematic Proof
-
-`production/TWO_MINUTE_PROOF_SCRIPT.md` converts Greenlight Book Page 47 into a practical 120-second production sequence.
-
-The proof includes:
-
-- a continuous dramatic structure moving **awe → unease → humour → connection → question**
-- Golden Record opening and orbital discovery
-- atmospheric arrival over reclaimed Dublin
-- child-height first contact inside a flooded transit concourse
-- comic misunderstanding around an ordinary human umbrella
-- Golden Record music as the emotional bridge
-- one explicit act of trust between the boy and young scientist
-- a final local signal that turns the encounter into a larger mystery
-- 18 numbered shots with exact durations totalling 120 seconds
-- lens and framing language for each shot
-- production-proof objective per shot
-- dialogue restraint and international-legibility strategy
-- sound-design spine
-- practical tests for character consistency, water/rain/cloth, camera, sound and editing
-- approval gates preventing provisional mythology from leaking into the proof
-- direct key-frame reuse into the Greenlight Book and Priority A visual sequence
-
-## Continuity review result
-
-`CONTINUITY_REVIEW.md` records the source hierarchy and protects unresolved choices.
-
-Key findings and resolutions:
-
-- `CANON.md` remains unchanged and authoritative.
-- The project remains **premium episodic animation**. Earlier “live-action credibility” wording is treated as a cinematography/rendering benchmark rather than a format change.
-- The boy is the **last known human child on Earth**, not confirmed as the final human anywhere.
-- His exact age, name, carers, biography and isolation duration remain open.
-- The Memory Ark remains the recommended mythology framework, not locked canon.
-- Current episode titles remain working titles.
-- Broad time scale remains **centuries after humanity disappears**; avoid accidental “decades later” claims in final copy or prompts.
-- Off-world human communities remain current recommended Season One architecture pending final founder lock.
-- The two-minute proof proves premise, relationship, world and tone without depending on unresolved mythology.
-
-## In progress
-
-- Editorially trim Pages 07–22 and 39–50 in layout
-- Lock the boy’s name, exact identity details and signature personal object
-- Generate and approve REF 01–14 from `production/PROOF_CONTINUITY_PACK.md`
-- Generate final storyboard/keyframes from `production/PROOF_STORYBOARD_KEYFRAME_PACK.md`
-- Generate and approve Priority A images
-- Export master manuscript to Word/PDF/PowerPoint
-
-## Manuscript and production progress
-
-- **Episode treatments:** 10 of 10 complete
-- **50-page master manuscript:** 50 of 50 pages represented
-- **World-bible modules:** substantial draft complete
-- **Character foundation:** central boy dossier complete; alien crew dossiers complete at development-framework level
-- **Visual system:** 50 of 50 page image assignments complete; actual generation/approval pending
+- **Episode treatments:** 10/10 complete
+- **50-page master manuscript:** 50/50 represented
 - **Continuity review:** v0.1 complete
-- **Two-minute proof:** script 1 of 1 complete; shot list 18 of 18 complete; continuity reference specifications 14 of 14 complete; storyboard/keyframe briefs 18 of 18 complete; approved storyboard frames 0 of 18 pending reference generation
+- **Boy character foundation:** complete at development-framework level
+- **Alien crew dossiers:** complete at development-framework level
+- **50-page visual assignments:** 50/50 complete
+- **Two-minute proof script:** 1/1 complete
+- **Proof shot list:** 18/18 complete
+- **Continuity reference specifications:** 14/14 complete
+- **Identity-gate production briefs:** 5/5 complete
+- **Storyboard/keyframe briefs:** 18/18 complete
+- **Approved identity references:** 0/5
+- **Approved total proof references:** 0/14
+- **Approved storyboard frames:** 0/18
 - **Page-level source readiness:** 99%
+
+## In progress / remaining
+
+- Generate, review and approve REF01–REF05 using the Identity Gate
+- Build REF06 Crew Group Scale Plate, REF13 Hand-Contact Sheet and REF14 Eye-Line/Height Chart from approved identities
+- Generate remaining prop/environment references REF07–REF12
+- Generate the 18 final storyboard/keyframes in dependency order
+- Generate and approve Priority A Greenlight Book images
+- Editorially trim Pages 07–22 and 39–50 in layout
+- Export first-layout Word/PDF versions from the canonical manuscript
+- Derive concise Tencent PowerPoint from the same source
 
 ## Next highest-priority tasks
 
-1. Generate and approve the identity gate first: REF 01 Boy portrait, REF 02 Boy full body, REF 03 Scientist portrait, REF 04 Scientist full body/recorder and REF 05 Security silhouette.
-2. Build scale, hand-contact and eye-line references REF06, REF13 and REF14 from the approved identity assets.
-3. Generate the 18 storyboard frames in dependency-gate order, reusing the approved references exactly.
-4. Generate the Priority A image sequence, reusing proof frames wherever possible.
-5. Build Word and PDF first-layout versions from the canonical manuscript.
-6. Derive the concise Tencent PowerPoint from the same source.
+1. Generate the **REF01 Boy Portrait eight-candidate controlled contact sheet** using `production/IDENTITY_GATE_REF01_05.md` and score every candidate before refinement.
+2. Approve REF03 Scientist Portrait using the same controlled method.
+3. Propagate those approved faces into REF02 and REF04 rather than regenerating identity.
+4. Approve REF05 Security Officer from the established alien civilisation grammar.
+5. Build REF06, REF13 and REF14 only after the Identity Gate passes.
+6. Release final storyboard generation only when its reference dependencies are approved.
 
 ## Repository principle
 
-`GREENLIGHT_BOOK.md` is the canonical editorial manuscript. `CANON.md` remains the locked story authority. `CONTINUITY_REVIEW.md` records conflicts and resolutions. Supporting files preserve deeper development detail, but final external outputs should derive from the approved master manuscript so the book, Word document, PDF, PowerPoint and website remain aligned.
+`GREENLIGHT_BOOK.md` is the canonical editorial manuscript. `CANON.md` remains the locked story authority. Production files may define executable visual choices while preserving unresolved biography and mythology as provisional. External Word, PDF, PowerPoint and website outputs should derive from the approved master manuscript and approved continuity references so story and imagery remain aligned.
 
 © 2026 Napkin Studio. All Rights Reserved.
