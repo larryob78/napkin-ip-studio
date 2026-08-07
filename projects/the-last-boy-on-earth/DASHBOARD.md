@@ -2,10 +2,10 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.5 episode-development build
-- **Overall readiness:** 86%
+- **Greenlight Book:** v0.6 world-development build
+- **Overall readiness:** 88%
 - **Story structure:** strong
-- **Visual-development readiness:** improving
+- **Visual-development readiness:** strong foundation
 - **Highest unresolved risk:** final causal mythology connecting the hidden technology, the boy's concealment, the off-world humans and the approaching force
 
 ## Completed foundations
@@ -22,25 +22,27 @@
 - Reusable Greenlight Image Director skill
 - Alien culture and design grammar v0.1
 - Full dramatic treatments for Episodes 1–3
+- Reclaimed Earth world bible and four reusable location families
 
 ## Latest completed work
 
-### Episodes 1–3 dramatic treatments
+### Reclaimed Earth World Bible v0.1
 
-The opening movement of the season has been expanded from one-paragraph summaries into full dramatic treatments covering:
+The Earth setting has been developed into a production-facing world system covering:
 
-- opening and ending images
-- scene-sequence progression
-- episode purpose and human truth
-- character turns for the boy and each expedition member
-- major visual set pieces
-- mystery clues and later consequences
-- continuity checks against locked canon
-- provisional details clearly separated from approved facts
+- the governing visual and emotional principles of a living world without organised humanity
+- specific reclaimed-Dublin identity, materials, weather, ecology and sound
+- four reusable environment families: Vertical City, River City, Memory Interiors and Hidden Systems
+- practical movement and survival logic for the boy
+- a clear contrast between local human knowledge and alien technological advantage
+- object, animal, weather and sound rules for visual storytelling
+- ten priority full-bleed image briefs
+- an eight-page Greenlight Book allocation
+- continuity checks and explicit protection of unresolved canon
 
-The treatments preserve the boy's unnamed status, avoid locking the final disappearance mythology and create causal story obligations for Episodes 5–10.
+The new module avoids generic apocalypse shorthand and keeps the date, disappearance cause, boy's true home, hidden-system operators and survival mythology open for later approval.
 
-**Status:** ready for Greenlight Book adaptation, storyboard briefing and dialogue-outline development.
+**Status:** ready for Greenlight Book adaptation, environment concept art and episode-location breakdowns.
 
 ## In progress
 
@@ -49,23 +51,22 @@ The treatments preserve the boy's unnamed status, avoid locking the final disapp
 - Resolve the single causal mythology for Episodes 5–10
 - Lock the boy's identity and survival logic
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
-- Build environment families for reclaimed Dublin, domestic memory spaces and alien interiors
 - Prepare the two-minute proof script and numbered shot list
 
 ## Next highest-priority tasks
 
-1. Build the reclaimed-Earth world bible and three reusable location families.
-2. Expand Episodes 4–6 into full dramatic treatments.
-3. Create a causal mythology options paper, score the strongest routes and recommend one for approval.
-4. Expand the boy's biography without locking unsupported facts.
-5. Create the master 50-page proposal map and manuscript-completion count.
+1. Expand Episodes 4–6 into full dramatic treatments.
+2. Create a causal mythology options paper, score the strongest routes and recommend one for approval.
+3. Expand the boy's biography without locking unsupported facts.
+4. Create the master 50-page proposal map and manuscript-completion count.
+5. Write image-by-image briefs for the first twelve Greenlight Book spreads.
 
 ## Manuscript progress
 
 - **Episode treatments:** 3 of 10 complete
-- **World-bible modules:** 1 of 4 complete
+- **World-bible modules:** 2 of 4 complete
 - **Character foundation:** core ensemble complete, detailed biographies pending
-- **Visual system:** art/shot bible and alien grammar complete, image-by-image briefs pending
+- **Visual system:** art/shot bible, alien grammar and Earth environment system complete; image-by-image briefs pending
 - **Proposal assembly:** source sections exist, master 50-page sequence not yet assembled
 
 ## Quality gates
@@ -84,8 +85,8 @@ A section is only considered complete when it:
 
 - **v0.4:** culture and visual-development framework
 - **v0.5:** opening episode treatments complete
-- **v0.6:** all episode treatments and world bible complete
-- **v0.7:** causal mythology approved
+- **v0.6:** world-development system and opening treatments complete
+- **v0.7:** all episode treatments and causal mythology recommendation complete
 - **v0.8:** 50-page manuscript and image briefs aligned
 - **v0.9:** layout and continuity review
 - **v1.0:** Tencent submission package
