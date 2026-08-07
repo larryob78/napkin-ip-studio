@@ -4,10 +4,11 @@
 
 - **Greenlight Book:** v0.95 consolidated master manuscript
 - **Overall development readiness:** 98%
-- **Page-level source readiness:** 97%
+- **Page-level source readiness:** 98%
 - **Story structure:** full dramatic treatments cover all ten episodes
 - **Proposal assembly:** all 50 pages are represented in canonical `GREENLIGHT_BOOK.md`
 - **Continuity:** first formal canon/continuity review complete in `CONTINUITY_REVIEW.md`
+- **Character development:** central boy dossier and detailed alien crew dossiers complete at development-framework level
 - **Visual production:** all 50 proposal pages have one canonical numbered image assignment; first twelve continuity-setting images prioritised
 - **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
@@ -40,6 +41,7 @@ It consolidates:
 - Fifteen-minute episode architecture
 - Core ensemble framework
 - Detailed canon-safe character dossier and survival logic for the boy
+- Detailed canon-safe alien crew dossiers for leader, young scientist, security officer and ship intelligence
 - Production art and shot bible
 - Canon-safe development decision sheet
 - Reusable Greenlight Image Director skill
@@ -55,14 +57,36 @@ It consolidates:
 - Canon and continuity review v0.1
 - Visual-production language aligned to the locked animated format while preserving photographic realism as a craft benchmark
 
+## Latest completed work
+
+### Alien Crew Dossiers v0.1
+
+`characters/ALIEN_CREW_DOSSIERS.md` now gives the expedition a production-ready ensemble framework without locking unresolved names, anatomy or institutional mythology.
+
+The dossier includes:
+
+- expedition leader: procedural ethics → accountable responsibility
+- young scientist: curiosity → consent and reciprocal friendship
+- security officer: containment → protection through trust
+- ship intelligence: perfect record → answerable living memory
+- individual fears, gifts, flaws and behavioural language
+- relationship arcs with the boy and one another
+- episode-by-episode Season One progression
+- dialogue distinction and performance notes
+- proposal-ready short character copy
+- matched portrait and continuity image set
+- explicit open-decision register and character quality gate
+
+**Status:** Character foundation is now strong enough to support Pages 18–22, visual continuity testing and the two-minute proof script without inventing final names or anatomy.
+
 ## Continuity review result
 
-`CONTINUITY_REVIEW.md` now records the source hierarchy and protects unresolved choices.
+`CONTINUITY_REVIEW.md` records the source hierarchy and protects unresolved choices.
 
 Key findings and resolutions:
 
 - `CANON.md` remains unchanged and authoritative.
-- The project remains **premium episodic animation**. Earlier “live-action credibility” wording is now explicitly treated as a cinematography/rendering benchmark rather than a format change.
+- The project remains **premium episodic animation**. Earlier “live-action credibility” wording is treated as a cinematography/rendering benchmark rather than a format change.
 - The boy is the **last known human child on Earth**, not confirmed as the final human anywhere.
 - His exact age, name, carers, biography and isolation duration remain open.
 - The Memory Ark remains the recommended mythology framework, not locked canon.
@@ -75,8 +99,7 @@ Key findings and resolutions:
 
 - Editorially trim Pages 07–22 and 39–50 in layout
 - Lock the boy’s name, exact identity details and signature personal object
-- Develop detailed role dossiers for the alien crew
-- Convert alien grammar into matched portrait, silhouette, tool and ship tests
+- Convert alien grammar and crew dossiers into matched portrait, silhouette, tool and ship tests
 - Generate and approve Priority A images
 - Draft the two-minute proof script and numbered shot list
 - Export master manuscript to Word/PDF/PowerPoint
@@ -86,15 +109,15 @@ Key findings and resolutions:
 - **Episode treatments:** 10 of 10 complete
 - **50-page master manuscript:** 50 of 50 pages represented
 - **World-bible modules:** substantial draft complete
-- **Character foundation:** central boy dossier complete; detailed alien crew dossiers pending
+- **Character foundation:** central boy dossier complete; alien crew dossiers complete at development-framework level
 - **Visual system:** 50 of 50 page image assignments complete; actual generation/approval pending
 - **Continuity review:** v0.1 complete
-- **Page-level source readiness:** 97%
+- **Page-level source readiness:** 98%
 
 ## Next highest-priority tasks
 
-1. Develop concise production-ready dossiers for the alien crew, without locking final names or anatomy.
-2. Draft the two-minute proof script and numbered shot list within the continuity boundaries now established.
+1. Draft the two-minute proof script and numbered shot list within the established continuity boundaries.
+2. Convert alien crew dossiers into matched visual test briefs and lockable continuity plates.
 3. Generate Priority A image sequence and lock continuity.
 4. Build Word and PDF first-layout versions from the main manuscript.
 5. Derive the concise Tencent PowerPoint from the same source.
