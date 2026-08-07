@@ -2,12 +2,12 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.85 character-development milestone
-- **Overall development readiness:** 97%
-- **Page-level source readiness:** 89%
+- **Greenlight Book:** v0.88 opening-manuscript milestone
+- **Overall development readiness:** 98%
+- **Page-level source readiness:** 91%
 - **Story structure:** full dramatic treatments cover all ten episodes
-- **Proposal assembly:** all 50 pages have a defined editorial purpose, source assignment and visual role
-- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology and ten remaining identity decisions for the boy
+- **Proposal assembly:** all 50 pages mapped; Pages 01–06 now have final assembly-ready editorial copy
+- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology and remaining identity decisions for the boy
 
 ## Completed foundations
 
@@ -25,45 +25,36 @@
 - Alien culture and design grammar v0.1
 - Full dramatic treatments for Episodes 1–10
 - Reclaimed Earth world bible and four reusable location families
-- Four causal mythology routes scored against ten story, production and pitch criteria
+- Four causal mythology routes scored against story, production and pitch criteria
 - Recommended Memory Ark framework connecting the boy, hidden technology, off-world humans, sealed orders and approaching force
-- Final-act character arcs, visual progression and twelve priority full-bleed image briefs
+- Final-act character arcs, visual progression and priority full-bleed image briefs
 - Master 50-page Series Development Proposal map
-- Section-by-section manuscript completion count
-- Canon guardrails for proposal assembly
+- Final editorial copy and full-bleed assignments for Pages 01–06
 
 ## Latest completed work
 
-### The Boy — Character Dossier and Survival Logic v0.1
+### Pages 01–06 — The Invitation
 
-A proposal-ready dossier now develops the central character without silently converting open questions into canon.
+The opening movement is now written at final page length rather than outline level. It establishes the proposal's emotional argument before the world-bible material begins.
 
-The document separates all material into three certainty levels:
+Completed pages:
 
-- **Locked:** established project canon and approved story structure
-- **Recommended:** strongest current development route, safe to use when labelled
-- **Open:** founder decisions required before final canon lock
+1. Cover
+2. The Image That Started It
+3. The Premise
+4. Series Overview
+5. Why This Story
+6. The Emotional Promise
 
-The dossier adds:
+The copy preserves open canon while making the commercial and emotional engine immediately legible. The opening now moves from the historical inspiration of the Voyager Golden Record into the fictional arrival, the friendship engine, the central theme of archive versus witness, and the season's movement from one-way message to reciprocal listening.
 
-- a complete emotional and behavioural profile
-- a credible two-to-four-year provisional survival architecture
-- shelter, food, water, health, power and knowledge-preservation logic
-- explicit skills and limitations
-- stress and joy behaviours for script and visual continuity
-- season-long relationship arcs with the scientist, leader, security officer and ship intelligence
-- a recommended repaired audio recorder as the signature personal object
-- six full-bleed character image briefs
-- short and extended proposal-ready character copy
-- ten protected identity and biography decisions that remain open
+Each page includes a production-ready full-bleed image assignment.
 
-The new material preserves the central rule that the boy is a living witness, not a biological key, superhuman engineer or chosen-one figure.
-
-**Status:** the central character is now production-ready at framework level. Final identity details and the signature object still require approval.
+**Status:** opening six pages are assembly-ready. No unresolved biography or disappearance mythology has been silently locked.
 
 ## In progress
 
-- Write final page-length manuscript copy for the 50-page sequence
+- Write final page-length manuscript copy for Pages 07–50
 - Lock the boy’s name, exact identity details and signature personal object
 - Develop detailed role dossiers for the alien crew
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
@@ -73,9 +64,9 @@ The new material preserves the central rule that the boy is a living witness, no
 
 ## Next highest-priority tasks
 
-1. Write final editorial copy for Pages 1–6 of the proposal.
-2. Create the unified numbered image brief list for Pages 1–50.
-3. Compress all episode treatments into final page-length summaries.
+1. Create the unified numbered image brief list for Pages 01–50.
+2. Compress all episode treatments into final page-length summaries for Pages 23–38.
+3. Write final world and character copy for Pages 07–22.
 4. Develop concise production-ready dossiers for the alien crew.
 5. Draft the two-minute proof script and numbered shot list.
 6. Run a continuity review across the season map, treatments and proposal map.
@@ -86,20 +77,21 @@ The new material preserves the central rule that the boy is a living witness, no
 - **World-bible modules:** 3 of 4 complete, including the causal mythology system
 - **Character foundation:** central boy dossier complete at development-framework level; detailed alien crew dossiers pending
 - **Visual system:** art/shot bible, alien grammar, Earth environment system, boy portrait briefs and final-act hero briefs complete; unified numbered image sequence pending
-- **Proposal assembly:** 50 of 50 pages mapped; final page-length prose pending
-- **Page-level source readiness:** 89%
+- **Proposal assembly:** 50 of 50 pages mapped; Pages 01–06 final; Pages 07–50 awaiting final page-length prose
+- **Final-copy pages:** 6 of 50
+- **Page-level source readiness:** 91%
 
 ## 50-page section readiness
 
 | Section | Pages | Source readiness | Remaining work |
 |---|---:|---:|---|
-| Invitation | 6 | 90% | final editorial compression and hero prompts |
-| World | 9 | 90% | mythology approval label and two missing image briefs |
+| Invitation | 6 | 100% | image generation and final layout only |
+| World | 9 | 90% | final page copy, mythology approval label and two image briefs |
 | Characters | 7 | 90% | alien crew dossiers, final names and portrait approvals |
 | Season | 16 | 95% | compress treatments into page-length copy |
 | Visual identity | 8 | 85% | unified numbered prompt sequence and ship test |
 | Production/ask | 4 | 70% | two-minute script, production assumptions and final commercial wording |
-| **Total** | **50** | **89%** | assembly, image production and continuity pass |
+| **Total** | **50** | **91%** | final manuscript assembly, image production and continuity pass |
 
 ## Quality gates
 
@@ -123,7 +115,8 @@ A section is only considered complete when it:
 - **v0.7:** all episode treatments complete
 - **v0.8:** 50-page proposal map and completion count aligned
 - **v0.85:** central character dossier and survival logic complete
-- **v0.9:** unified image sequence, final page copy and continuity review
+- **v0.88:** final opening editorial copy for Pages 01–06 complete
+- **v0.9:** unified image sequence, remaining final page copy and continuity review
 - **v1.0:** Tencent submission package
 
 ## Repository principle
