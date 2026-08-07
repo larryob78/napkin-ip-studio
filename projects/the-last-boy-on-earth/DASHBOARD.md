@@ -13,6 +13,7 @@
 - **Proof continuity:** 14-reference production continuity specification complete
 - **Proof storyboard:** storyboard/keyframe briefs complete for all 18 shots
 - **Identity gate:** executable REF01–REF05 production and approval pack complete in `production/IDENTITY_GATE_REF01_05.md`
+- **Visual production control:** one dependency-aware tracker now covers all 14 proof refs, 18 proof shots and 50 Greenlight Book image assignments in `production/MASTER_VISUAL_PRODUCTION_TRACKER.md`
 - **Visual production:** all 50 proposal pages have canonical numbered image assignments; actual approved identity references remain the current production blocker
 - **Highest unresolved story risk:** founder approval of the recommended Memory Ark mythology, current off-world-human reveal, and remaining identity decisions for the boy
 
@@ -24,7 +25,9 @@
 `production/TWO_MINUTE_PROOF_SCRIPT.md` — current 120-second proof source.  
 `production/PROOF_CONTINUITY_PACK.md` — authority for REF01–REF14.  
 `production/IDENTITY_GATE_REF01_05.md` — executable production and approval authority for the first five identity references.  
-`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` — shot-level authority for all 18 storyboard/keyframe briefs.
+`production/PROOF_STORYBOARD_KEYFRAME_PACK.md` — shot-level authority for all 18 storyboard/keyframe briefs.  
+`production/MASTER_VISUAL_PRODUCTION_TRACKER.md` — dependency-aware production status and release authority across proof refs, proof shots and the 50-page book.  
+`visual/UNIFIED_50_PAGE_IMAGE_SEQUENCE.md` — canonical creative assignment list for all 50 Greenlight Book images.
 
 ## Completed foundations
 
@@ -46,29 +49,29 @@
 - 14-reference Proof Continuity Pack
 - 18-shot Storyboard + Keyframe Prompt Pack
 - REF01–REF05 Identity Gate production pack, controlled candidate method and approval scorecard
+- Master Visual Production Tracker connecting 14 refs → 18 shots → 50 Greenlight Book images
 
 ## Latest completed work
 
-### Identity Gate — REF01–REF05 Production Pack v0.1
+### Master Visual Production Tracker v0.1
 
-`production/IDENTITY_GATE_REF01_05.md` converts the project's biggest practical visual blocker into an executable production gate.
+`production/MASTER_VISUAL_PRODUCTION_TRACKER.md` consolidates the project's visual-production state into one executable queue.
 
 It now defines:
 
-- the exact approval order: faces → bodies/tools → security contrast character
-- controlled 8-candidate contact-sheet exploration rather than disconnected hero-image generation
-- convergence and stress-test stages before any reference can be marked APPROVED
-- production-ready master prompts for REF01 Boy Portrait, REF02 Boy Full Body, REF03 Scientist Portrait, REF04 Scientist Full Body + Recorder and REF05 Security Officer + Protective Tool
-- reference-specific rejection language
-- performance stress tests for the boy and scientist
-- wardrobe, anatomy, recorder and protective-tool continuity freezes
-- a shared 40-point scorecard covering canon safety, emotional readability, continuity robustness, originality, physical credibility, silhouette, repeatability and world/culture fit
-- an approval rule requiring no score below 4/5 and a target of 34/40 or higher
-- a cross-reference ensemble stress test before the gate can close
-- reproducibility metadata requirements for every approved image
-- precise handoff from approved identity assets into REF06, REF13, REF14, storyboard frames, Priority A imagery and the motion proof
+- one status vocabulary across BLOCKED, READY, WIP, REVIEW, APPROVED, REJECTED and PROVISIONAL
+- a three-gate dependency model: identity → physical relationships → world/objects
+- the exact current critical path, with REF01 and REF03 identified as the two highest-leverage approvals
+- a complete 14-reference ledger showing current state, dependencies and downstream unlocks
+- an immediate executable queue for assets that can begin without waiting for another reference
+- a full 18-shot release matrix showing why every proof shot is still technically blocked
+- a Greenlight Book production tracker separating Priority A images from the remaining production families
+- the important finding that Page 07 is the only Priority A image genuinely ready now without identity drift, while Pages 02 and 03 release once REF09 and REF07 are approved
+- asset naming/folder discipline and mandatory approval metadata for continuity-critical references
+- a six-question daily production review designed to close approvals instead of expanding documentation indefinitely
+- explicit readiness definitions for the proof and Greenlight Book visual assembly
 
-**Status:** the design/approval process for REF01–05 is production-ready. Actual image candidates and approvals are not yet present in the repository.
+**Status:** production documentation is now sufficiently consolidated. The practical next step is no longer another planning file; it is creation, review and approval of visual candidates beginning with REF01 Boy Portrait and REF03 Scientist Portrait.
 
 ## Continuity position
 
@@ -98,9 +101,11 @@ The project remains **premium episodic animation with photographic credibility**
 - **Continuity reference specifications:** 14/14 complete
 - **Identity-gate production briefs:** 5/5 complete
 - **Storyboard/keyframe briefs:** 18/18 complete
+- **Master visual production tracker:** complete v0.1
 - **Approved identity references:** 0/5
 - **Approved total proof references:** 0/14
 - **Approved storyboard frames:** 0/18
+- **Approved Priority A Greenlight images:** 0/12
 - **Page-level source readiness:** 99%
 
 ## In progress / remaining
@@ -117,11 +122,12 @@ The project remains **premium episodic animation with photographic credibility**
 ## Next highest-priority tasks
 
 1. Generate the **REF01 Boy Portrait eight-candidate controlled contact sheet** using `production/IDENTITY_GATE_REF01_05.md` and score every candidate before refinement.
-2. Approve REF03 Scientist Portrait using the same controlled method.
-3. Propagate those approved faces into REF02 and REF04 rather than regenerating identity.
+2. Generate the **REF03 Scientist Portrait controlled candidate sheet** in parallel because it unlocks REF04, REF06, REF13, REF14 and most relationship shots.
+3. Propagate approved faces into REF02 and REF04 rather than regenerating identity.
 4. Approve REF05 Security Officer from the established alien civilisation grammar.
-5. Build REF06, REF13 and REF14 only after the Identity Gate passes.
-6. Release final storyboard generation only when its reference dependencies are approved.
+5. In parallel, produce READY world/object references REF08, REF07, REF09, REF10, REF11 and REF12.
+6. Build REF06, REF13 and REF14 only after their identity dependencies pass.
+7. Release final storyboard generation only when each shot's reference row in `MASTER_VISUAL_PRODUCTION_TRACKER.md` is clear.
 
 ## Repository principle
 
