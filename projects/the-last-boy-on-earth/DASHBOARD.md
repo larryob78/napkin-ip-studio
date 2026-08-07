@@ -2,10 +2,11 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.7 all-episode treatment build
-- **Overall readiness:** 95%
-- **Story structure:** full dramatic treatments now cover all ten episodes
-- **Visual-development readiness:** strong foundation with final-act hero briefs added
+- **Greenlight Book:** v0.8 master 50-page assembly map
+- **Overall development readiness:** 96%
+- **Page-level source readiness:** 87%
+- **Story structure:** full dramatic treatments cover all ten episodes
+- **Proposal assembly:** all 50 pages now have a defined editorial purpose, source assignment and visual role
 - **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology and the boy’s detailed biography
 
 ## Completed foundations
@@ -26,57 +27,54 @@
 - Four causal mythology routes scored against ten story, production and pitch criteria
 - Recommended Memory Ark framework connecting the boy, hidden technology, off-world humans, sealed orders and approaching force
 - Final-act character arcs, visual progression and twelve priority full-bleed image briefs
+- Master 50-page Series Development Proposal map
+- Section-by-section manuscript completion count
+- Canon guardrails for proposal assembly
 
 ## Latest completed work
 
-### Episodes 7–10 Full Dramatic Treatments v0.1
+### Master 50-Page Series Development Proposal Map v0.1
 
-The complete final act of Season One has been expanded from summary beats into scene-level dramatic treatments.
+A canonical page-by-page structure now exists for the complete Greenlight Book, PowerPoint and PDF.
 
-The new manuscript section covers:
+The map divides the proposal into six deliberate movements:
 
-1. **Episode 7 — The Golden Lie**
-   - the expedition’s sealed retrieval mission is exposed
-   - the Memory Ark is established as a distributed cultural-continuity system rather than a weapon or resurrection device
-   - the boy rejects the crew’s affection without moral action and leaves alone
+1. **The Invitation** — pages 1–6
+2. **The World We Left Behind** — pages 7–15
+3. **The People Who Find Each Other** — pages 16–22
+4. **Season One** — pages 23–38
+5. **Visual Identity** — pages 39–46
+6. **Production and Greenlight** — pages 47–50
 
-2. **Episode 8 — The Last Broadcast**
-   - the crew chooses the boy over mission legitimacy
-   - multiple incomplete off-world human settlements are confirmed
-   - the approaching force is introduced through erased and standardised cultural histories
-   - the young scientist begins rebuilding trust by asking for consent before touching the Ark interface
+Every page now has:
 
-3. **Episode 9 — Departure**
-   - the moral choice is clarified as silence, central ownership or risky reconnection
-   - the boy’s role becomes living witness and moral interpreter, not biological access key
-   - the crew rejects both alien command and the pursuer’s offer of controlled protection
-   - the boy proposes a fourth option: a distributed new record
+- one primary editorial purpose
+- a defined copy requirement
+- a specific image or layout assignment
+- an identified source file
+- canon and approval notes where required
 
-4. **Episode 10 — A New Record**
-   - the crew creates an answerable record pairing major achievements with lived human context
-   - the climax becomes a struggle to keep many voices alive rather than a conventional weapons battle
-   - the boy speaks only as himself rather than claiming to represent all humanity
-   - a living human voice answers, resolving his isolation and launching Season Two
+The new map also introduces a more precise **87% page-level source-readiness score**. This differs from the broader development-readiness score because it measures whether every page has final-length copy and a production-ready visual assignment.
 
-The file also includes final-act character arcs, visual progression, twelve full-bleed hero-image briefs, canon-protection notes and a continuity-quality check.
-
-**Status:** all ten episode treatments are now complete and ready for master proposal assembly.
+**Status:** the 50-page proposal is structurally assembled and ready for final page copy, unified image briefs and continuity review.
 
 ## In progress
 
-- Expand the Series Development Proposal toward a coherent 50-page manuscript
+- Write final page-length manuscript copy for the 50-page sequence
 - Lock the boy’s identity, biography and survival logic
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
 - Prepare the two-minute proof script and numbered shot list
 - Align all visual briefs into one numbered deck-production sequence
+- Run a line-by-line continuity review against locked canon
 
 ## Next highest-priority tasks
 
-1. Create the master 50-page proposal map and manuscript-completion count.
-2. Expand the boy’s biography and survival logic without locking unsupported facts.
-3. Write image-by-image briefs for the first twelve Greenlight Book spreads.
-4. Run a continuity review across the season map and all ten episode treatments.
+1. Expand the boy’s biography and survival logic without locking unsupported facts.
+2. Write final page copy for Pages 1–6 of the proposal.
+3. Create the unified numbered image brief list for Pages 1–50.
+4. Compress all episode treatments into final page-length summaries.
 5. Draft the two-minute proof script and numbered shot list.
+6. Run a continuity review across the season map, treatments and proposal map.
 
 ## Manuscript progress
 
@@ -84,7 +82,20 @@ The file also includes final-act character arcs, visual progression, twelve full
 - **World-bible modules:** 3 of 4 complete, including the causal mythology system
 - **Character foundation:** core ensemble complete, detailed biographies pending
 - **Visual system:** art/shot bible, alien grammar, Earth environment system and final-act hero briefs complete; unified numbered image sequence pending
-- **Proposal assembly:** source sections are substantial; master 50-page sequence not yet assembled
+- **Proposal assembly:** 50 of 50 pages mapped; final page-length prose pending
+- **Page-level source readiness:** 87%
+
+## 50-page section readiness
+
+| Section | Pages | Source readiness | Remaining work |
+|---|---:|---:|---|
+| Invitation | 6 | 90% | final editorial compression and hero prompts |
+| World | 9 | 90% | mythology approval label and two missing image briefs |
+| Characters | 7 | 75% | detailed boy biography, crew roles and portrait briefs |
+| Season | 16 | 95% | compress treatments into page-length copy |
+| Visual identity | 8 | 85% | unified numbered prompt sequence and ship test |
+| Production/ask | 4 | 70% | two-minute script, production assumptions and final commercial wording |
+| **Total** | **50** | **87%** | assembly, image production and continuity pass |
 
 ## Quality gates
 
@@ -106,8 +117,9 @@ A section is only considered complete when it:
 - **v0.65:** midpoint episode treatments complete
 - **v0.68:** causal mythology options and recommendation complete
 - **v0.7:** all episode treatments complete
-- **v0.8:** 50-page manuscript and image briefs aligned
-- **v0.9:** layout and continuity review
+- **v0.8:** 50-page proposal map and completion count aligned
+- **v0.85:** detailed character biographies and final page copy
+- **v0.9:** unified image sequence, layout and continuity review
 - **v1.0:** Tencent submission package
 
 ## Repository principle
