@@ -2,11 +2,11 @@
 
 ## Current status
 
-- **Greenlight Book:** v0.68 causal-mythology build
-- **Overall readiness:** 92%
-- **Story structure:** strong through Episode 6, with final-act causal framework recommended
-- **Visual-development readiness:** strong foundation
-- **Highest unresolved risk:** founder approval and detailed execution of the recommended Memory Ark mythology
+- **Greenlight Book:** v0.7 all-episode treatment build
+- **Overall readiness:** 95%
+- **Story structure:** full dramatic treatments now cover all ten episodes
+- **Visual-development readiness:** strong foundation with final-act hero briefs added
+- **Highest unresolved risk:** founder approval of the recommended Memory Ark mythology and the boy’s detailed biography
 
 ## Completed foundations
 
@@ -21,62 +21,70 @@
 - Canon-safe development decision sheet
 - Reusable Greenlight Image Director skill
 - Alien culture and design grammar v0.1
-- Full dramatic treatments for Episodes 1–6
+- Full dramatic treatments for Episodes 1–10
 - Reclaimed Earth world bible and four reusable location families
 - Four causal mythology routes scored against ten story, production and pitch criteria
 - Recommended Memory Ark framework connecting the boy, hidden technology, off-world humans, sealed orders and approaching force
+- Final-act character arcs, visual progression and twelve priority full-bleed image briefs
 
 ## Latest completed work
 
-### Causal Mythology Options and Recommendation v0.1
+### Episodes 7–10 Full Dramatic Treatments v0.1
 
-The project's largest unresolved story risk has been converted into a controlled decision paper.
+The complete final act of Season One has been expanded from summary beats into scene-level dramatic treatments.
 
-Four routes were developed and scored:
+The new manuscript section covers:
 
-1. **The Memory Ark — 92/100**
-2. **The Quiet Gate — 87/100**
-3. **The Living Seed — 83/100**
-4. **The Witness Protocol — 80/100**
+1. **Episode 7 — The Golden Lie**
+   - the expedition’s sealed retrieval mission is exposed
+   - the Memory Ark is established as a distributed cultural-continuity system rather than a weapon or resurrection device
+   - the boy rejects the crew’s affection without moral action and leaves alone
 
-The document recommends **The Memory Ark** for development because it unifies the plot mechanism with the series' existing emotional subject: who gets to decide what humanity was and what deserves to survive.
+2. **Episode 8 — The Last Broadcast**
+   - the crew chooses the boy over mission legitimacy
+   - multiple incomplete off-world human settlements are confirmed
+   - the approaching force is introduced through erased and standardised cultural histories
+   - the young scientist begins rebuilding trust by asking for consent before touching the Ark interface
 
-Under the recommended route:
+3. **Episode 9 — Departure**
+   - the moral choice is clarified as silence, central ownership or risky reconnection
+   - the boy’s role becomes living witness and moral interpreter, not biological access key
+   - the crew rejects both alien command and the pursuer’s offer of controlled protection
+   - the boy proposes a fourth option: a distributed new record
 
-- displaced human settlements carry incomplete fragments of a distributed cultural-memory system
-- the complete authentication node remains hidden on Earth
-- the boy matters as a living witness and moral interpreter, not as a genetic chosen one
-- alien authority sent the expedition under sealed retrieval orders
-- an approaching power controls displaced civilisations by capturing and rewriting their histories
-- the new Golden Record becomes the crew and boy's answer: human memory should be shared and answered, not hidden or owned
+4. **Episode 10 — A New Record**
+   - the crew creates an answerable record pairing major achievements with lived human context
+   - the climax becomes a struggle to keep many voices alive rather than a conventional weapons battle
+   - the boy speaks only as himself rather than claiming to represent all humanity
+   - a living human voice answers, resolving his isolation and launching Season Two
 
-The paper explicitly prevents the system from becoming a resurrection machine, magical intelligence, superweapon or arbitrary access-key story. It also identifies the six remaining detail decisions required before script lock.
+The file also includes final-act character arcs, visual progression, twelve full-bleed hero-image briefs, canon-protection notes and a continuity-quality check.
 
-**Status:** ready for founder approval and direct use in the Episodes 7–10 dramatic treatments.
+**Status:** all ten episode treatments are now complete and ready for master proposal assembly.
 
 ## In progress
 
 - Expand the Series Development Proposal toward a coherent 50-page manuscript
-- Deepen Episodes 7–10 from summaries to treatments using the recommended causal structure
-- Lock the boy's identity and survival logic
+- Lock the boy’s identity, biography and survival logic
 - Convert the alien grammar into matched portrait, silhouette, tool and ship tests
 - Prepare the two-minute proof script and numbered shot list
+- Align all visual briefs into one numbered deck-production sequence
 
 ## Next highest-priority tasks
 
-1. Expand Episodes 7–10 into full dramatic treatments using the Memory Ark framework while keeping names and technical details provisional.
-2. Expand the boy's biography without locking unsupported facts.
-3. Create the master 50-page proposal map and manuscript-completion count.
-4. Write image-by-image briefs for the first twelve Greenlight Book spreads.
-5. Run a continuity review across the season map and all ten episode treatments.
+1. Create the master 50-page proposal map and manuscript-completion count.
+2. Expand the boy’s biography and survival logic without locking unsupported facts.
+3. Write image-by-image briefs for the first twelve Greenlight Book spreads.
+4. Run a continuity review across the season map and all ten episode treatments.
+5. Draft the two-minute proof script and numbered shot list.
 
 ## Manuscript progress
 
-- **Episode treatments:** 6 of 10 complete
+- **Episode treatments:** 10 of 10 complete
 - **World-bible modules:** 3 of 4 complete, including the causal mythology system
 - **Character foundation:** core ensemble complete, detailed biographies pending
-- **Visual system:** art/shot bible, alien grammar and Earth environment system complete; image-by-image briefs pending
-- **Proposal assembly:** source sections exist, master 50-page sequence not yet assembled
+- **Visual system:** art/shot bible, alien grammar, Earth environment system and final-act hero briefs complete; unified numbered image sequence pending
+- **Proposal assembly:** source sections are substantial; master 50-page sequence not yet assembled
 
 ## Quality gates
 
